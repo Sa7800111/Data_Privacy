@@ -1,0 +1,500 @@
+Name,Age,Location,Gender,Income,Assets,Debts,Monthly Expenses,Investment Preference,Type of Advice Sought,User Financial Goal,Action Based on Advice,Feedback on Advice,App Usability Feedback,Trust Level with Digital Advisor
+*,"[0, 80[",*,Non-binary,"[5999.73, 9971.47[",69544.19,0.0,2360.57,Mutual Funds,Debt Management,Debt Reduction,Implemented,Unsatisfied,Satisfied,Low
+*,"[0, 80[",*,Female,"[2000.09, 5999.73[",56588.5,0.0,3832.15,Fixed Deposits,Retirement Planning,High ROI Investments,Seeking Further Consultation,Satisfied,Satisfied,Low
+*,"[0, 80[",*,Non-binary,"[2000.09, 5999.73[",23182.41,1046.3,4532.87,Bonds,Tax Planning,Debt Reduction,Partially Implemented,Neutral,Very Unsatisfied,High
+*,"[0, 80[",*,Non-binary,"[5999.73, 9971.47[",47971.29,0.0,823.51,Gold,Savings Plan,Increase Savings,Seeking Further Consultation,Neutral,Very Unsatisfied,High
+*,"[0, 80[",*,Male,"[5999.73, 9971.47[",76978.79,4845.49,2380.94,Gold,Debt Management,Debt Reduction,Partially Implemented,Very Satisfied,Neutral,Moderate
+*,"[0, 80[",*,Female,"[2000.09, 5999.73[",12616.96,0.0,4495.65,Fixed Deposits,Retirement Planning,Retirement Fund Building,Not Implemented,Neutral,Very Satisfied,Low
+*,"[0, 80[",*,Female,"[2000.09, 5999.73[",25848.34,4469.29,4658.88,Gold,Investment Strategy,Tax Savings,Implemented,Neutral,Unsatisfied,Low
+*,*,*,*,*,90837.08,0.0,995.09,*,Tax Planning,Tax Savings,Not Implemented,Unsatisfied,Unsatisfied,High
+*,"[0, 80[",*,Non-binary,"[2000.09, 5999.73[",65633.44,4305.77,1949.86,Cryptocurrency,Investment Strategy,Increase Savings,Not Implemented,Unsatisfied,Satisfied,Low
+*,"[0, 80[",*,Non-binary,"[5999.73, 9971.47[",72675.91,0.0,1366.74,Fixed Deposits,Investment Strategy,Increase Savings,Seeking Further Consultation,Very Unsatisfied,Unsatisfied,Moderate
+*,"[0, 80[",*,Male,"[5999.73, 9971.47[",24525.53,0.0,3723.36,Fixed Deposits,Investment Strategy,Retirement Fund Building,Not Implemented,Very Unsatisfied,Very Unsatisfied,Moderate
+*,"[0, 80[",*,Male,"[2000.09, 5999.73[",78252.64,804.34,4901.07,Gold,Savings Plan,Increase Savings,Implemented,Very Satisfied,Unsatisfied,Moderate
+*,"[0, 80[",*,Non-binary,"[2000.09, 5999.73[",48914.06,4251.38,822.22,Real Estate,Savings Plan,Debt Reduction,Partially Implemented,Unsatisfied,Satisfied,Low
+*,"[0, 80[",*,Non-binary,"[5999.73, 9971.47[",97613.54,467.04,1285.9,Real Estate,Savings Plan,High ROI Investments,Seeking Further Consultation,Very Satisfied,Very Satisfied,Low
+*,"[0, 80[",*,Non-binary,"[2000.09, 5999.73[",76927.03,151.6,3286.98,Mutual Funds,Savings Plan,Retirement Fund Building,Seeking Further Consultation,Unsatisfied,Very Satisfied,Moderate
+*,"[0, 80[",*,Male,"[5999.73, 9971.47[",24048.11,0.0,4576.32,Real Estate,Debt Management,Debt Reduction,Partially Implemented,Very Unsatisfied,Unsatisfied,High
+*,"[0, 80[",*,Non-binary,"[2000.09, 5999.73[",63166.79,0.0,4961.35,Mutual Funds,Debt Management,High ROI Investments,Implemented,Very Unsatisfied,Satisfied,Moderate
+*,"[0, 80[",*,Female,"[2000.09, 5999.73[",5748.77,0.0,4686.44,Fixed Deposits,Retirement Planning,Debt Reduction,Seeking Further Consultation,Neutral,Satisfied,Moderate
+*,"[0, 80[",*,Non-binary,"[2000.09, 5999.73[",42785.81,626.09,4826.56,Cryptocurrency,Investment Strategy,Tax Savings,Not Implemented,Very Satisfied,Unsatisfied,Low
+*,*,*,*,*,91183.45,0.0,3931.93,*,Savings Plan,High ROI Investments,Not Implemented,Satisfied,Unsatisfied,Low
+*,"[0, 80[",*,Non-binary,"[5999.73, 9971.47[",86652.64,0.0,3463.99,Mutual Funds,Savings Plan,Debt Reduction,Seeking Further Consultation,Neutral,Satisfied,Low
+*,"[0, 80[",*,Male,"[5999.73, 9971.47[",42309.12,2964.44,1685.36,Stocks,Debt Management,Retirement Fund Building,Not Implemented,Neutral,Unsatisfied,Low
+*,"[0, 80[",*,Male,"[5999.73, 9971.47[",46667.0,2452.03,4056.85,Gold,Investment Strategy,Debt Reduction,Seeking Further Consultation,Very Satisfied,Very Satisfied,Low
+*,"[0, 80[",*,Non-binary,"[2000.09, 5999.73[",71506.55,0.0,4320.43,Mutual Funds,Retirement Planning,High ROI Investments,Seeking Further Consultation,Very Unsatisfied,Satisfied,High
+*,"[0, 80[",*,Male,"[2000.09, 5999.73[",8583.79,0.0,3180.17,Real Estate,Debt Management,Retirement Fund Building,Not Implemented,Satisfied,Unsatisfied,Moderate
+*,"[0, 80[",*,Female,"[2000.09, 5999.73[",63277.43,0.0,2107.41,Mutual Funds,Tax Planning,High ROI Investments,Partially Implemented,Very Satisfied,Very Unsatisfied,Low
+*,"[0, 80[",*,Male,"[2000.09, 5999.73[",77875.48,0.0,4550.6,Bonds,Investment Strategy,Retirement Fund Building,Implemented,Very Satisfied,Neutral,Low
+*,"[0, 80[",*,Female,"[2000.09, 5999.73[",59388.17,4576.29,3832.95,Mutual Funds,Investment Strategy,Increase Savings,Seeking Further Consultation,Very Satisfied,Unsatisfied,Low
+*,"[0, 80[",*,Non-binary,"[5999.73, 9971.47[",43284.23,1457.32,3239.39,Fixed Deposits,Retirement Planning,Tax Savings,Seeking Further Consultation,Unsatisfied,Very Satisfied,Low
+*,"[0, 80[",*,Female,"[2000.09, 5999.73[",7745.11,2090.59,3012.41,Real Estate,Tax Planning,Increase Savings,Implemented,Unsatisfied,Unsatisfied,High
+*,"[0, 80[",*,Non-binary,"[2000.09, 5999.73[",19073.97,0.0,3551.61,Fixed Deposits,Savings Plan,Retirement Fund Building,Seeking Further Consultation,Very Unsatisfied,Unsatisfied,Low
+*,"[0, 80[",*,Female,"[2000.09, 5999.73[",48856.47,0.0,4313.48,Fixed Deposits,Savings Plan,Tax Savings,Partially Implemented,Unsatisfied,Very Unsatisfied,Moderate
+*,"[0, 80[",*,Non-binary,"[5999.73, 9971.47[",41600.1,0.0,4896.12,Mutual Funds,Tax Planning,Increase Savings,Partially Implemented,Very Unsatisfied,Very Satisfied,Low
+*,"[0, 80[",*,Non-binary,"[5999.73, 9971.47[",28129.27,0.0,3284.39,Cryptocurrency,Debt Management,Debt Reduction,Partially Implemented,Very Satisfied,Unsatisfied,Low
+*,"[0, 80[",*,Female,"[2000.09, 5999.73[",80124.2,0.0,1711.66,Mutual Funds,Investment Strategy,Retirement Fund Building,Seeking Further Consultation,Satisfied,Very Unsatisfied,Low
+*,"[0, 80[",*,Non-binary,"[2000.09, 5999.73[",64025.25,2416.42,4491.81,Mutual Funds,Savings Plan,Tax Savings,Seeking Further Consultation,Unsatisfied,Very Satisfied,High
+*,"[0, 80[",*,Female,"[2000.09, 5999.73[",30396.24,4322.27,3688.13,Gold,Savings Plan,High ROI Investments,Not Implemented,Very Satisfied,Very Unsatisfied,High
+*,"[0, 80[",*,Female,"[2000.09, 5999.73[",65191.28,0.0,4343.63,Stocks,Debt Management,Increase Savings,Not Implemented,Neutral,Neutral,Low
+*,"[0, 80[",*,Female,"[5999.73, 9971.47[",51841.33,0.0,4928.97,Fixed Deposits,Debt Management,High ROI Investments,Partially Implemented,Neutral,Satisfied,High
+*,"[0, 80[",*,Female,"[5999.73, 9971.47[",68747.19,0.0,706.2,Fixed Deposits,Tax Planning,Retirement Fund Building,Partially Implemented,Very Satisfied,Very Unsatisfied,High
+*,*,*,*,*,61626.13,0.0,4257.73,*,Savings Plan,High ROI Investments,Implemented,Very Satisfied,Very Satisfied,Low
+*,"[0, 80[",*,Male,"[5999.73, 9971.47[",73752.15,2914.41,4073.73,Stocks,Debt Management,Tax Savings,Partially Implemented,Very Unsatisfied,Very Satisfied,Low
+*,"[0, 80[",*,Male,"[2000.09, 5999.73[",50231.96,0.0,4605.37,Real Estate,Debt Management,Tax Savings,Partially Implemented,Unsatisfied,Satisfied,Low
+*,"[0, 80[",*,Male,"[5999.73, 9971.47[",24147.79,0.0,4639.97,Bonds,Tax Planning,High ROI Investments,Implemented,Very Unsatisfied,Satisfied,Low
+*,"[0, 80[",*,Non-binary,"[5999.73, 9971.47[",38765.53,0.0,2784.59,Real Estate,Tax Planning,Debt Reduction,Implemented,Very Unsatisfied,Unsatisfied,Low
+*,"[0, 80[",*,Female,"[2000.09, 5999.73[",92740.18,0.0,1862.29,Gold,Retirement Planning,Tax Savings,Partially Implemented,Very Satisfied,Very Satisfied,High
+*,"[0, 80[",*,Male,"[5999.73, 9971.47[",23988.02,0.0,2279.25,Stocks,Savings Plan,Tax Savings,Partially Implemented,Very Unsatisfied,Very Satisfied,High
+*,*,*,*,*,10399.52,0.0,3994.04,*,Savings Plan,Tax Savings,Seeking Further Consultation,Neutral,Satisfied,High
+*,"[0, 80[",*,Non-binary,"[2000.09, 5999.73[",29633.02,3380.22,2098.56,Mutual Funds,Retirement Planning,High ROI Investments,Implemented,Very Unsatisfied,Very Satisfied,High
+*,"[0, 80[",*,Female,"[5999.73, 9971.47[",37179.92,3350.7,3051.92,Bonds,Tax Planning,Tax Savings,Seeking Further Consultation,Satisfied,Very Satisfied,High
+*,"[0, 80[",*,Non-binary,"[2000.09, 5999.73[",83671.94,0.0,4634.42,Fixed Deposits,Savings Plan,High ROI Investments,Implemented,Very Unsatisfied,Neutral,High
+*,"[0, 80[",*,Female,"[5999.73, 9971.47[",41461.25,1377.6,2746.35,Fixed Deposits,Investment Strategy,Increase Savings,Seeking Further Consultation,Neutral,Neutral,High
+*,"[0, 80[",*,Non-binary,"[2000.09, 5999.73[",41602.34,3370.26,4125.59,Cryptocurrency,Retirement Planning,Debt Reduction,Seeking Further Consultation,Satisfied,Neutral,Moderate
+*,"[0, 80[",*,Male,"[2000.09, 5999.73[",31867.5,0.0,2677.64,Gold,Tax Planning,Retirement Fund Building,Not Implemented,Very Unsatisfied,Satisfied,High
+*,"[0, 80[",*,Non-binary,"[2000.09, 5999.73[",44859.86,3591.11,2832.55,Real Estate,Investment Strategy,Retirement Fund Building,Implemented,Satisfied,Neutral,Low
+*,"[0, 80[",*,Non-binary,"[2000.09, 5999.73[",87494.58,2780.14,3892.13,Mutual Funds,Retirement Planning,Tax Savings,Seeking Further Consultation,Very Satisfied,Very Unsatisfied,Low
+*,"[0, 80[",*,Female,"[5999.73, 9971.47[",76078.84,0.0,1420.67,Gold,Retirement Planning,Debt Reduction,Implemented,Neutral,Very Unsatisfied,High
+*,"[0, 80[",*,Male,"[2000.09, 5999.73[",22850.65,0.0,953.26,Gold,Retirement Planning,High ROI Investments,Not Implemented,Neutral,Very Unsatisfied,Low
+*,"[0, 80[",*,Non-binary,"[5999.73, 9971.47[",94289.42,3068.25,678.27,Gold,Debt Management,Tax Savings,Partially Implemented,Very Unsatisfied,Satisfied,Moderate
+*,"[0, 80[",*,Male,"[5999.73, 9971.47[",76373.39,231.88,2197.01,Real Estate,Savings Plan,Increase Savings,Implemented,Neutral,Satisfied,Moderate
+*,"[0, 80[",*,Non-binary,"[5999.73, 9971.47[",69699.54,4582.98,1735.45,Gold,Retirement Planning,Increase Savings,Partially Implemented,Neutral,Neutral,Moderate
+*,"[0, 80[",*,Non-binary,"[2000.09, 5999.73[",74237.1,0.0,2458.47,Cryptocurrency,Retirement Planning,Debt Reduction,Implemented,Satisfied,Satisfied,High
+*,*,*,*,*,55763.15,0.0,2039.07,*,Debt Management,Tax Savings,Implemented,Neutral,Neutral,Low
+*,"[0, 80[",*,Non-binary,"[5999.73, 9971.47[",31815.91,0.0,706.46,Mutual Funds,Debt Management,Increase Savings,Implemented,Satisfied,Very Unsatisfied,Moderate
+*,"[0, 80[",*,Female,"[2000.09, 5999.73[",41915.96,0.0,2560.23,Real Estate,Debt Management,Increase Savings,Seeking Further Consultation,Unsatisfied,Neutral,Low
+*,"[0, 80[",*,Non-binary,"[5999.73, 9971.47[",21607.11,0.0,3312.37,Mutual Funds,Investment Strategy,Tax Savings,Implemented,Very Satisfied,Very Satisfied,Low
+*,"[0, 80[",*,Female,"[5999.73, 9971.47[",14749.96,1550.32,4155.05,Gold,Debt Management,Tax Savings,Implemented,Very Unsatisfied,Satisfied,High
+*,"[0, 80[",*,Female,"[2000.09, 5999.73[",26371.96,0.0,1927.27,Mutual Funds,Savings Plan,Tax Savings,Seeking Further Consultation,Satisfied,Very Unsatisfied,High
+*,"[0, 80[",*,Non-binary,"[2000.09, 5999.73[",51482.85,4946.36,4994.32,Bonds,Retirement Planning,High ROI Investments,Implemented,Satisfied,Unsatisfied,Moderate
+*,"[0, 80[",*,Non-binary,"[5999.73, 9971.47[",55219.41,3237.28,746.15,Cryptocurrency,Debt Management,Tax Savings,Implemented,Very Satisfied,Very Unsatisfied,Low
+*,"[0, 80[",*,Non-binary,"[2000.09, 5999.73[",69740.5,2489.73,4241.56,Cryptocurrency,Tax Planning,High ROI Investments,Partially Implemented,Neutral,Unsatisfied,Low
+*,"[0, 80[",*,Female,"[2000.09, 5999.73[",63397.69,0.0,2761.02,Stocks,Tax Planning,Tax Savings,Not Implemented,Satisfied,Satisfied,Moderate
+*,"[0, 80[",*,Male,"[5999.73, 9971.47[",95902.08,0.0,3736.39,Stocks,Retirement Planning,Debt Reduction,Partially Implemented,Very Satisfied,Unsatisfied,Low
+*,"[0, 80[",*,Male,"[5999.73, 9971.47[",27406.97,131.25,3987.12,Cryptocurrency,Debt Management,Increase Savings,Implemented,Very Satisfied,Unsatisfied,High
+*,"[0, 80[",*,Female,"[2000.09, 5999.73[",18045.45,2495.06,3184.34,Gold,Investment Strategy,Debt Reduction,Implemented,Very Satisfied,Very Satisfied,Moderate
+*,"[0, 80[",*,Male,"[5999.73, 9971.47[",58652.64,0.0,736.93,Stocks,Savings Plan,Retirement Fund Building,Implemented,Very Unsatisfied,Unsatisfied,High
+*,"[0, 80[",*,Non-binary,"[2000.09, 5999.73[",61496.79,4329.49,4079.0,Fixed Deposits,Tax Planning,Tax Savings,Not Implemented,Very Unsatisfied,Neutral,Low
+*,"[0, 80[",*,Non-binary,"[5999.73, 9971.47[",21255.08,0.0,3088.39,Mutual Funds,Retirement Planning,Increase Savings,Not Implemented,Neutral,Very Unsatisfied,Low
+*,*,*,*,*,48606.47,0.0,4054.17,*,Tax Planning,Debt Reduction,Seeking Further Consultation,Neutral,Very Unsatisfied,High
+*,"[0, 80[",*,Female,"[5999.73, 9971.47[",98786.68,0.0,3047.33,Mutual Funds,Debt Management,Retirement Fund Building,Implemented,Neutral,Neutral,Moderate
+*,"[0, 80[",*,Male,"[5999.73, 9971.47[",51550.97,1599.86,3145.26,Fixed Deposits,Tax Planning,Retirement Fund Building,Implemented,Satisfied,Satisfied,High
+*,"[0, 80[",*,Male,"[2000.09, 5999.73[",67620.6,0.0,1351.42,Real Estate,Investment Strategy,Increase Savings,Partially Implemented,Satisfied,Very Unsatisfied,Low
+*,"[0, 80[",*,Female,"[5999.73, 9971.47[",27982.01,2230.87,3655.89,Gold,Savings Plan,Retirement Fund Building,Partially Implemented,Satisfied,Very Unsatisfied,Moderate
+*,"[0, 80[",*,Male,"[5999.73, 9971.47[",14285.59,159.78,4090.83,Real Estate,Savings Plan,Tax Savings,Partially Implemented,Very Satisfied,Very Unsatisfied,Moderate
+*,"[0, 80[",*,Male,"[2000.09, 5999.73[",33768.84,0.0,2438.36,Gold,Investment Strategy,High ROI Investments,Seeking Further Consultation,Very Unsatisfied,Very Satisfied,Low
+*,"[0, 80[",*,Male,"[5999.73, 9971.47[",69563.05,0.0,2123.52,Cryptocurrency,Debt Management,Increase Savings,Seeking Further Consultation,Satisfied,Very Satisfied,High
+*,"[0, 80[",*,Female,"[5999.73, 9971.47[",59127.02,310.44,3427.27,Cryptocurrency,Tax Planning,Debt Reduction,Partially Implemented,Very Satisfied,Very Satisfied,Low
+*,"[0, 80[",*,Female,"[2000.09, 5999.73[",94909.51,857.97,4134.28,Stocks,Retirement Planning,High ROI Investments,Not Implemented,Unsatisfied,Unsatisfied,High
+*,"[0, 80[",*,Male,"[5999.73, 9971.47[",38312.15,398.11,4459.41,Stocks,Tax Planning,Debt Reduction,Implemented,Very Satisfied,Very Unsatisfied,Low
+*,"[0, 80[",*,Female,"[2000.09, 5999.73[",35506.87,0.0,2505.08,Stocks,Savings Plan,Increase Savings,Partially Implemented,Very Unsatisfied,Very Satisfied,Low
+*,*,*,*,*,48717.86,0.0,3850.42,*,Retirement Planning,Increase Savings,Partially Implemented,Satisfied,Very Satisfied,Low
+*,"[0, 80[",*,Non-binary,"[5999.73, 9971.47[",46881.49,4191.52,2349.24,Gold,Savings Plan,Debt Reduction,Not Implemented,Satisfied,Neutral,High
+*,"[0, 80[",*,Female,"[5999.73, 9971.47[",61432.99,3936.67,3616.74,Cryptocurrency,Investment Strategy,Retirement Fund Building,Not Implemented,Very Satisfied,Unsatisfied,Low
+*,"[0, 80[",*,Female,"[5999.73, 9971.47[",20063.55,0.0,1140.03,Cryptocurrency,Tax Planning,Increase Savings,Not Implemented,Very Unsatisfied,Unsatisfied,Low
+*,*,*,*,*,39186.69,0.0,2721.25,*,Debt Management,Debt Reduction,Partially Implemented,Unsatisfied,Satisfied,High
+*,"[0, 80[",*,Female,"[5999.73, 9971.47[",37558.7,0.0,3730.64,Fixed Deposits,Investment Strategy,Tax Savings,Seeking Further Consultation,Satisfied,Satisfied,High
+*,"[0, 80[",*,Non-binary,"[2000.09, 5999.73[",55108.74,0.0,2527.07,Mutual Funds,Debt Management,Increase Savings,Seeking Further Consultation,Very Satisfied,Very Satisfied,High
+*,"[0, 80[",*,Female,"[2000.09, 5999.73[",26608.76,4551.04,583.98,Cryptocurrency,Investment Strategy,Increase Savings,Partially Implemented,Neutral,Very Unsatisfied,High
+*,"[0, 80[",*,Non-binary,"[5999.73, 9971.47[",48493.04,4241.17,4117.3,Gold,Retirement Planning,Debt Reduction,Not Implemented,Very Unsatisfied,Unsatisfied,Moderate
+*,*,*,*,*,20049.8,3347.93,2308.15,*,Debt Management,Debt Reduction,Partially Implemented,Very Unsatisfied,Very Unsatisfied,Low
+*,"[0, 80[",*,Female,"[2000.09, 5999.73[",56268.83,0.0,665.06,Gold,Debt Management,Retirement Fund Building,Not Implemented,Satisfied,Very Unsatisfied,Low
+*,"[0, 80[",*,Female,"[2000.09, 5999.73[",56517.43,2426.47,3558.41,Cryptocurrency,Savings Plan,Retirement Fund Building,Implemented,Satisfied,Neutral,Low
+*,"[0, 80[",*,Non-binary,"[2000.09, 5999.73[",6494.2,0.0,2047.71,Bonds,Debt Management,Retirement Fund Building,Seeking Further Consultation,Very Satisfied,Unsatisfied,Low
+*,*,*,*,*,8078.54,856.46,1141.39,*,Debt Management,Retirement Fund Building,Partially Implemented,Neutral,Unsatisfied,Moderate
+*,"[0, 80[",*,Male,"[5999.73, 9971.47[",47867.96,0.0,3653.76,Real Estate,Debt Management,Tax Savings,Partially Implemented,Unsatisfied,Very Unsatisfied,High
+*,*,*,*,*,54177.98,0.0,3455.62,*,Savings Plan,High ROI Investments,Implemented,Unsatisfied,Satisfied,Moderate
+*,*,*,*,*,67404.91,0.0,3461.22,*,Retirement Planning,Retirement Fund Building,Implemented,Very Satisfied,Satisfied,Moderate
+*,"[0, 80[",*,Female,"[5999.73, 9971.47[",5609.11,575.14,918.44,Real Estate,Savings Plan,Tax Savings,Implemented,Neutral,Very Unsatisfied,High
+*,"[0, 80[",*,Non-binary,"[2000.09, 5999.73[",83123.65,0.0,3792.17,Cryptocurrency,Tax Planning,Retirement Fund Building,Seeking Further Consultation,Unsatisfied,Very Satisfied,High
+*,"[0, 80[",*,Female,"[5999.73, 9971.47[",20040.2,0.0,3308.07,Gold,Debt Management,Tax Savings,Partially Implemented,Satisfied,Satisfied,High
+*,"[0, 80[",*,Non-binary,"[2000.09, 5999.73[",7360.14,3529.18,1610.15,Gold,Investment Strategy,Increase Savings,Partially Implemented,Very Satisfied,Satisfied,High
+*,*,*,*,*,41684.7,0.0,2858.34,*,Savings Plan,Debt Reduction,Partially Implemented,Very Unsatisfied,Unsatisfied,High
+*,"[0, 80[",*,Non-binary,"[2000.09, 5999.73[",54834.73,3367.7,1380.19,Bonds,Debt Management,Debt Reduction,Implemented,Unsatisfied,Unsatisfied,Low
+*,"[0, 80[",*,Male,"[5999.73, 9971.47[",11946.86,0.0,3888.52,Fixed Deposits,Retirement Planning,Debt Reduction,Partially Implemented,Very Unsatisfied,Satisfied,Low
+*,"[0, 80[",*,Non-binary,"[2000.09, 5999.73[",18113.24,0.0,1497.76,Real Estate,Investment Strategy,Debt Reduction,Partially Implemented,Satisfied,Neutral,High
+*,"[0, 80[",*,Female,"[5999.73, 9971.47[",89388.64,2545.1,689.67,Fixed Deposits,Savings Plan,Tax Savings,Seeking Further Consultation,Neutral,Neutral,Moderate
+*,"[0, 80[",*,Non-binary,"[5999.73, 9971.47[",85070.29,0.0,692.96,Real Estate,Tax Planning,Debt Reduction,Partially Implemented,Neutral,Very Satisfied,Low
+*,"[0, 80[",*,Female,"[5999.73, 9971.47[",17576.3,0.0,1402.24,Gold,Savings Plan,Increase Savings,Partially Implemented,Very Unsatisfied,Neutral,Moderate
+*,"[0, 80[",*,Female,"[5999.73, 9971.47[",21448.45,4791.1,4507.61,Mutual Funds,Investment Strategy,High ROI Investments,Partially Implemented,Unsatisfied,Neutral,High
+*,"[0, 80[",*,Female,"[2000.09, 5999.73[",27310.47,1222.23,3292.13,Real Estate,Tax Planning,Debt Reduction,Implemented,Very Satisfied,Neutral,Low
+*,"[0, 80[",*,Female,"[2000.09, 5999.73[",80909.12,1601.01,2382.97,Fixed Deposits,Debt Management,Tax Savings,Not Implemented,Very Unsatisfied,Satisfied,High
+*,"[0, 80[",*,Female,"[5999.73, 9971.47[",31867.88,697.42,3567.87,Stocks,Tax Planning,High ROI Investments,Seeking Further Consultation,Satisfied,Very Unsatisfied,Low
+*,"[0, 80[",*,Female,"[5999.73, 9971.47[",48307.9,0.0,4976.89,Cryptocurrency,Tax Planning,Increase Savings,Partially Implemented,Very Unsatisfied,Neutral,Moderate
+*,"[0, 80[",*,Non-binary,"[5999.73, 9971.47[",12112.24,201.22,3381.02,Fixed Deposits,Retirement Planning,Tax Savings,Implemented,Neutral,Neutral,Moderate
+*,*,*,*,*,24643.3,0.0,1433.62,*,Debt Management,Debt Reduction,Partially Implemented,Unsatisfied,Unsatisfied,Low
+*,"[0, 80[",*,Female,"[5999.73, 9971.47[",93168.73,0.0,2273.44,Fixed Deposits,Savings Plan,Tax Savings,Seeking Further Consultation,Neutral,Unsatisfied,Moderate
+*,"[0, 80[",*,Male,"[2000.09, 5999.73[",80645.74,3246.58,4665.6,Real Estate,Debt Management,Retirement Fund Building,Seeking Further Consultation,Unsatisfied,Very Satisfied,Low
+*,"[0, 80[",*,Non-binary,"[5999.73, 9971.47[",63758.32,1238.94,2530.41,Fixed Deposits,Retirement Planning,Increase Savings,Partially Implemented,Very Satisfied,Unsatisfied,High
+*,"[0, 80[",*,Female,"[2000.09, 5999.73[",76962.96,0.0,3836.96,Fixed Deposits,Retirement Planning,Tax Savings,Not Implemented,Neutral,Satisfied,Low
+*,"[0, 80[",*,Non-binary,"[5999.73, 9971.47[",73265.35,984.06,4696.22,Gold,Tax Planning,High ROI Investments,Seeking Further Consultation,Very Unsatisfied,Unsatisfied,High
+*,"[0, 80[",*,Male,"[2000.09, 5999.73[",21915.01,1011.35,1093.59,Bonds,Tax Planning,High ROI Investments,Not Implemented,Satisfied,Very Unsatisfied,Moderate
+*,"[0, 80[",*,Female,"[2000.09, 5999.73[",81972.51,3362.6,1792.79,Mutual Funds,Tax Planning,High ROI Investments,Seeking Further Consultation,Satisfied,Very Satisfied,High
+*,"[0, 80[",*,Male,"[5999.73, 9971.47[",33700.8,0.0,3227.74,Fixed Deposits,Savings Plan,High ROI Investments,Partially Implemented,Very Satisfied,Very Unsatisfied,High
+*,"[0, 80[",*,Non-binary,"[2000.09, 5999.73[",14162.54,4735.75,4982.27,Bonds,Debt Management,Tax Savings,Partially Implemented,Satisfied,Very Unsatisfied,Moderate
+*,"[0, 80[",*,Female,"[5999.73, 9971.47[",8797.22,0.0,4788.8,Mutual Funds,Debt Management,Retirement Fund Building,Not Implemented,Very Unsatisfied,Satisfied,Low
+*,"[0, 80[",*,Male,"[5999.73, 9971.47[",84817.78,0.0,3192.64,Mutual Funds,Tax Planning,Retirement Fund Building,Seeking Further Consultation,Very Satisfied,Satisfied,Low
+*,"[0, 80[",*,Female,"[5999.73, 9971.47[",77655.84,0.0,4230.96,Stocks,Retirement Planning,High ROI Investments,Implemented,Satisfied,Neutral,Low
+*,"[0, 80[",*,Non-binary,"[5999.73, 9971.47[",57698.8,3926.44,4377.76,Bonds,Investment Strategy,Debt Reduction,Seeking Further Consultation,Very Unsatisfied,Very Satisfied,Low
+*,*,*,*,*,85190.72,0.0,4573.33,*,Retirement Planning,High ROI Investments,Seeking Further Consultation,Very Satisfied,Very Unsatisfied,Moderate
+*,"[0, 80[",*,Non-binary,"[2000.09, 5999.73[",34862.95,0.0,2205.18,Cryptocurrency,Retirement Planning,Tax Savings,Partially Implemented,Very Satisfied,Neutral,High
+*,"[0, 80[",*,Non-binary,"[2000.09, 5999.73[",82676.46,4674.83,2619.88,Mutual Funds,Debt Management,Increase Savings,Implemented,Very Satisfied,Satisfied,Low
+*,"[0, 80[",*,Female,"[2000.09, 5999.73[",10971.89,677.14,830.44,Gold,Investment Strategy,High ROI Investments,Not Implemented,Very Unsatisfied,Very Unsatisfied,High
+*,"[0, 80[",*,Male,"[5999.73, 9971.47[",27708.75,4321.91,1573.22,Bonds,Investment Strategy,Increase Savings,Partially Implemented,Very Satisfied,Satisfied,Moderate
+*,"[0, 80[",*,Female,"[5999.73, 9971.47[",11373.67,1877.79,2149.04,Fixed Deposits,Savings Plan,Debt Reduction,Implemented,Very Satisfied,Unsatisfied,High
+*,*,*,*,*,96432.95,0.0,3462.52,*,Investment Strategy,High ROI Investments,Implemented,Very Satisfied,Very Unsatisfied,Moderate
+*,"[0, 80[",*,Female,"[5999.73, 9971.47[",79724.88,3538.23,2236.22,Gold,Savings Plan,Increase Savings,Not Implemented,Satisfied,Unsatisfied,Low
+*,"[0, 80[",*,Female,"[5999.73, 9971.47[",59710.26,0.0,4941.44,Gold,Debt Management,Debt Reduction,Implemented,Unsatisfied,Very Unsatisfied,Moderate
+*,"[0, 80[",*,Female,"[2000.09, 5999.73[",69183.88,2701.57,3601.17,Mutual Funds,Investment Strategy,Tax Savings,Partially Implemented,Neutral,Very Unsatisfied,Moderate
+*,"[0, 80[",*,Female,"[2000.09, 5999.73[",43188.35,4510.31,3444.7,Stocks,Retirement Planning,Debt Reduction,Not Implemented,Satisfied,Neutral,Moderate
+*,"[0, 80[",*,Female,"[2000.09, 5999.73[",91313.55,954.22,3930.32,Real Estate,Tax Planning,High ROI Investments,Partially Implemented,Unsatisfied,Very Satisfied,Moderate
+*,"[0, 80[",*,Female,"[2000.09, 5999.73[",38009.66,0.0,4326.95,Fixed Deposits,Tax Planning,Increase Savings,Seeking Further Consultation,Unsatisfied,Unsatisfied,Moderate
+*,"[0, 80[",*,Non-binary,"[2000.09, 5999.73[",20974.15,4657.84,4685.46,Mutual Funds,Retirement Planning,Tax Savings,Partially Implemented,Very Satisfied,Very Satisfied,Low
+*,"[0, 80[",*,Male,"[5999.73, 9971.47[",82275.76,0.0,1691.51,Gold,Retirement Planning,Debt Reduction,Not Implemented,Unsatisfied,Very Satisfied,Low
+*,"[0, 80[",*,Non-binary,"[2000.09, 5999.73[",61278.19,0.0,4013.37,Cryptocurrency,Tax Planning,High ROI Investments,Implemented,Very Unsatisfied,Very Unsatisfied,High
+*,"[0, 80[",*,Female,"[5999.73, 9971.47[",10697.88,3420.46,3362.53,Bonds,Investment Strategy,Debt Reduction,Partially Implemented,Neutral,Satisfied,High
+*,*,*,*,*,87259.21,0.0,1674.31,*,Debt Management,Debt Reduction,Implemented,Neutral,Satisfied,Moderate
+*,"[0, 80[",*,Male,"[5999.73, 9971.47[",99333.72,1622.76,2448.57,Real Estate,Retirement Planning,Retirement Fund Building,Partially Implemented,Neutral,Unsatisfied,Moderate
+*,"[0, 80[",*,Female,"[2000.09, 5999.73[",55845.64,0.0,3923.88,Gold,Retirement Planning,High ROI Investments,Seeking Further Consultation,Very Satisfied,Very Satisfied,Moderate
+*,"[0, 80[",*,Non-binary,"[5999.73, 9971.47[",18986.67,0.0,666.05,Bonds,Retirement Planning,Tax Savings,Partially Implemented,Very Unsatisfied,Neutral,Low
+*,"[0, 80[",*,Non-binary,"[2000.09, 5999.73[",20505.47,4201.69,584.83,Gold,Debt Management,Debt Reduction,Seeking Further Consultation,Neutral,Neutral,Moderate
+*,"[0, 80[",*,Non-binary,"[2000.09, 5999.73[",46178.22,0.0,4450.07,Bonds,Retirement Planning,Increase Savings,Partially Implemented,Unsatisfied,Unsatisfied,Moderate
+*,"[0, 80[",*,Male,"[5999.73, 9971.47[",10436.94,2279.64,2617.43,Cryptocurrency,Tax Planning,High ROI Investments,Seeking Further Consultation,Very Unsatisfied,Neutral,High
+*,"[0, 80[",*,Female,"[5999.73, 9971.47[",15471.65,0.0,4782.34,Bonds,Debt Management,Tax Savings,Seeking Further Consultation,Satisfied,Very Satisfied,Low
+*,"[0, 80[",*,Male,"[2000.09, 5999.73[",79155.26,0.0,2801.14,Real Estate,Debt Management,Debt Reduction,Partially Implemented,Neutral,Unsatisfied,High
+*,*,*,*,*,97258.84,3099.36,2111.62,*,Retirement Planning,High ROI Investments,Implemented,Unsatisfied,Neutral,Moderate
+*,"[0, 80[",*,Male,"[2000.09, 5999.73[",97907.94,4128.04,634.44,Real Estate,Investment Strategy,Debt Reduction,Seeking Further Consultation,Very Unsatisfied,Very Unsatisfied,Low
+*,"[0, 80[",*,Male,"[2000.09, 5999.73[",6761.16,1494.37,1951.19,Gold,Tax Planning,High ROI Investments,Partially Implemented,Neutral,Neutral,Low
+*,"[0, 80[",*,Male,"[5999.73, 9971.47[",24833.23,3777.17,3851.09,Stocks,Tax Planning,Increase Savings,Not Implemented,Unsatisfied,Neutral,Low
+*,*,*,*,*,62266.49,0.0,4126.78,*,Retirement Planning,Increase Savings,Implemented,Neutral,Unsatisfied,Low
+*,"[0, 80[",*,Female,"[5999.73, 9971.47[",52035.83,343.72,2614.61,Bonds,Tax Planning,Debt Reduction,Not Implemented,Satisfied,Satisfied,High
+*,"[0, 80[",*,Male,"[5999.73, 9971.47[",50594.29,0.0,3072.33,Fixed Deposits,Tax Planning,Tax Savings,Not Implemented,Unsatisfied,Neutral,Low
+*,"[0, 80[",*,Female,"[5999.73, 9971.47[",89875.54,0.0,4787.61,Fixed Deposits,Savings Plan,High ROI Investments,Partially Implemented,Very Unsatisfied,Very Satisfied,High
+*,*,*,*,*,29390.87,0.0,2959.51,*,Tax Planning,Increase Savings,Not Implemented,Satisfied,Very Unsatisfied,Moderate
+*,"[0, 80[",*,Female,"[2000.09, 5999.73[",7766.78,3447.47,4059.88,Mutual Funds,Retirement Planning,High ROI Investments,Implemented,Very Unsatisfied,Very Satisfied,Moderate
+*,"[0, 80[",*,Non-binary,"[2000.09, 5999.73[",62941.32,0.0,2073.41,Gold,Savings Plan,High ROI Investments,Seeking Further Consultation,Satisfied,Very Unsatisfied,Moderate
+*,"[0, 80[",*,Female,"[2000.09, 5999.73[",47947.54,3871.69,2236.98,Fixed Deposits,Retirement Planning,Retirement Fund Building,Implemented,Very Satisfied,Very Satisfied,Low
+*,"[0, 80[",*,Female,"[5999.73, 9971.47[",19046.35,0.0,2667.9,Stocks,Debt Management,Tax Savings,Partially Implemented,Satisfied,Very Satisfied,Moderate
+*,"[0, 80[",*,Female,"[5999.73, 9971.47[",36483.25,2435.72,2870.97,Cryptocurrency,Tax Planning,Retirement Fund Building,Implemented,Very Unsatisfied,Satisfied,High
+*,"[0, 80[",*,Non-binary,"[2000.09, 5999.73[",29968.03,1886.62,4470.7,Gold,Debt Management,Debt Reduction,Not Implemented,Satisfied,Very Satisfied,Low
+*,"[0, 80[",*,Non-binary,"[5999.73, 9971.47[",89393.79,177.07,4847.37,Cryptocurrency,Tax Planning,Retirement Fund Building,Not Implemented,Satisfied,Very Unsatisfied,Low
+*,"[0, 80[",*,Male,"[2000.09, 5999.73[",38343.77,0.0,802.23,Bonds,Tax Planning,Debt Reduction,Seeking Further Consultation,Very Unsatisfied,Unsatisfied,Low
+*,"[0, 80[",*,Female,"[5999.73, 9971.47[",6180.05,4616.32,3420.5,Bonds,Savings Plan,Debt Reduction,Implemented,Neutral,Very Unsatisfied,Low
+*,*,*,*,*,35189.02,0.0,4371.24,*,Investment Strategy,Debt Reduction,Not Implemented,Unsatisfied,Very Satisfied,Low
+*,"[0, 80[",*,Non-binary,"[5999.73, 9971.47[",11435.47,0.0,2646.95,Mutual Funds,Savings Plan,High ROI Investments,Seeking Further Consultation,Very Unsatisfied,Neutral,Low
+*,"[0, 80[",*,Non-binary,"[5999.73, 9971.47[",34949.2,0.0,3162.29,Bonds,Savings Plan,Retirement Fund Building,Partially Implemented,Unsatisfied,Very Satisfied,Moderate
+*,"[0, 80[",*,Male,"[5999.73, 9971.47[",74388.84,0.0,3871.52,Stocks,Savings Plan,Increase Savings,Implemented,Unsatisfied,Satisfied,Low
+*,"[0, 80[",*,Female,"[2000.09, 5999.73[",33513.49,0.0,1103.53,Gold,Tax Planning,Increase Savings,Seeking Further Consultation,Very Satisfied,Satisfied,Low
+*,"[0, 80[",*,Male,"[2000.09, 5999.73[",90890.06,0.0,724.39,Real Estate,Savings Plan,Increase Savings,Implemented,Very Satisfied,Neutral,Moderate
+*,"[0, 80[",*,Female,"[2000.09, 5999.73[",78419.9,4776.46,1007.31,Fixed Deposits,Debt Management,Increase Savings,Partially Implemented,Very Unsatisfied,Very Unsatisfied,Moderate
+*,"[0, 80[",*,Non-binary,"[2000.09, 5999.73[",51111.82,926.1,2329.66,Mutual Funds,Savings Plan,Debt Reduction,Seeking Further Consultation,Very Satisfied,Very Satisfied,Low
+*,"[0, 80[",*,Male,"[5999.73, 9971.47[",36869.49,3562.88,2373.85,Cryptocurrency,Savings Plan,Increase Savings,Implemented,Satisfied,Neutral,High
+*,"[0, 80[",*,Female,"[5999.73, 9971.47[",17737.67,4894.12,3365.16,Fixed Deposits,Savings Plan,High ROI Investments,Implemented,Very Unsatisfied,Very Unsatisfied,High
+*,"[0, 80[",*,Non-binary,"[2000.09, 5999.73[",34163.6,0.0,507.64,Cryptocurrency,Retirement Planning,Debt Reduction,Seeking Further Consultation,Unsatisfied,Satisfied,Low
+*,"[0, 80[",*,Non-binary,"[2000.09, 5999.73[",15093.66,4071.98,1957.7,Real Estate,Tax Planning,Debt Reduction,Not Implemented,Satisfied,Neutral,Moderate
+*,"[0, 80[",*,Non-binary,"[5999.73, 9971.47[",84284.39,1842.24,3219.39,Mutual Funds,Debt Management,High ROI Investments,Implemented,Very Unsatisfied,Neutral,High
+*,"[0, 80[",*,Female,"[5999.73, 9971.47[",40318.38,1464.6,793.56,Stocks,Savings Plan,Retirement Fund Building,Seeking Further Consultation,Satisfied,Unsatisfied,Moderate
+*,"[0, 80[",*,Male,"[5999.73, 9971.47[",12367.84,0.0,2421.71,Cryptocurrency,Retirement Planning,Debt Reduction,Not Implemented,Unsatisfied,Unsatisfied,High
+*,"[0, 80[",*,Female,"[5999.73, 9971.47[",88385.61,1153.87,1042.31,Bonds,Savings Plan,Retirement Fund Building,Partially Implemented,Unsatisfied,Satisfied,High
+*,*,*,*,*,78675.59,804.16,3070.44,*,Investment Strategy,Debt Reduction,Not Implemented,Unsatisfied,Very Unsatisfied,High
+*,"[0, 80[",*,Non-binary,"[2000.09, 5999.73[",83486.49,0.0,3731.84,Cryptocurrency,Debt Management,Debt Reduction,Not Implemented,Neutral,Very Satisfied,Low
+*,*,*,*,*,39399.95,0.0,1372.6,*,Debt Management,High ROI Investments,Seeking Further Consultation,Satisfied,Neutral,Moderate
+*,"[0, 80[",*,Non-binary,"[5999.73, 9971.47[",52105.51,0.0,3679.47,Cryptocurrency,Retirement Planning,Increase Savings,Seeking Further Consultation,Satisfied,Very Unsatisfied,High
+*,"[0, 80[",*,Male,"[5999.73, 9971.47[",31211.9,2084.32,2050.86,Fixed Deposits,Investment Strategy,Increase Savings,Implemented,Unsatisfied,Unsatisfied,High
+*,"[0, 80[",*,Male,"[5999.73, 9971.47[",56349.4,2974.41,1798.72,Gold,Investment Strategy,High ROI Investments,Seeking Further Consultation,Very Unsatisfied,Very Unsatisfied,Low
+*,"[0, 80[",*,Female,"[5999.73, 9971.47[",91680.51,3726.77,4470.91,Stocks,Savings Plan,Increase Savings,Implemented,Unsatisfied,Very Unsatisfied,High
+*,*,*,*,*,50820.81,0.0,3758.93,*,Savings Plan,Increase Savings,Partially Implemented,Neutral,Neutral,Low
+*,*,*,*,*,19529.84,2589.53,532.19,*,Tax Planning,Retirement Fund Building,Not Implemented,Satisfied,Satisfied,Low
+*,"[0, 80[",*,Female,"[5999.73, 9971.47[",88569.16,0.0,2679.78,Real Estate,Investment Strategy,Retirement Fund Building,Partially Implemented,Very Satisfied,Satisfied,Moderate
+*,"[0, 80[",*,Female,"[2000.09, 5999.73[",16466.08,0.0,1447.98,Gold,Investment Strategy,High ROI Investments,Implemented,Very Unsatisfied,Satisfied,Low
+*,"[0, 80[",*,Non-binary,"[5999.73, 9971.47[",94678.65,0.0,4847.74,Real Estate,Debt Management,Tax Savings,Implemented,Unsatisfied,Unsatisfied,High
+*,"[0, 80[",*,Non-binary,"[2000.09, 5999.73[",14045.18,0.0,4751.98,Mutual Funds,Debt Management,Debt Reduction,Seeking Further Consultation,Satisfied,Very Satisfied,Low
+*,"[0, 80[",*,Female,"[2000.09, 5999.73[",73916.87,0.0,1704.23,Fixed Deposits,Debt Management,Increase Savings,Partially Implemented,Very Satisfied,Unsatisfied,Low
+*,"[0, 80[",*,Male,"[2000.09, 5999.73[",23513.73,3130.27,4457.87,Bonds,Tax Planning,Increase Savings,Implemented,Unsatisfied,Very Unsatisfied,Low
+*,"[0, 80[",*,Non-binary,"[5999.73, 9971.47[",26370.19,0.0,644.41,Gold,Savings Plan,Tax Savings,Implemented,Satisfied,Neutral,Moderate
+*,"[0, 80[",*,Female,"[5999.73, 9971.47[",79592.1,3807.18,884.96,Stocks,Retirement Planning,Debt Reduction,Not Implemented,Satisfied,Very Satisfied,High
+*,"[0, 80[",*,Female,"[5999.73, 9971.47[",24414.83,756.29,4556.36,Fixed Deposits,Savings Plan,High ROI Investments,Seeking Further Consultation,Very Unsatisfied,Very Unsatisfied,Low
+*,"[0, 80[",*,Non-binary,"[5999.73, 9971.47[",97175.17,0.0,4892.89,Fixed Deposits,Debt Management,Increase Savings,Implemented,Very Unsatisfied,Very Unsatisfied,High
+*,"[0, 80[",*,Non-binary,"[5999.73, 9971.47[",73180.12,2219.79,2261.69,Fixed Deposits,Debt Management,Increase Savings,Seeking Further Consultation,Neutral,Very Unsatisfied,Moderate
+*,"[0, 80[",*,Female,"[2000.09, 5999.73[",44871.9,0.0,3638.38,Real Estate,Savings Plan,Retirement Fund Building,Implemented,Neutral,Satisfied,High
+*,"[0, 80[",*,Female,"[2000.09, 5999.73[",88084.65,0.0,1593.68,Cryptocurrency,Tax Planning,Increase Savings,Partially Implemented,Very Satisfied,Unsatisfied,Moderate
+*,*,*,*,*,12265.91,0.0,4769.74,*,Investment Strategy,Tax Savings,Partially Implemented,Satisfied,Very Unsatisfied,High
+*,"[0, 80[",*,Non-binary,"[5999.73, 9971.47[",18774.83,2443.34,1172.34,Real Estate,Debt Management,Tax Savings,Partially Implemented,Neutral,Unsatisfied,Low
+*,"[0, 80[",*,Male,"[2000.09, 5999.73[",56402.34,1273.83,665.67,Real Estate,Debt Management,Retirement Fund Building,Implemented,Satisfied,Neutral,High
+*,*,*,*,*,80333.93,0.0,2403.79,*,Debt Management,Increase Savings,Not Implemented,Neutral,Very Unsatisfied,Low
+*,"[0, 80[",*,Non-binary,"[5999.73, 9971.47[",76884.37,2254.44,960.43,Real Estate,Investment Strategy,Debt Reduction,Partially Implemented,Unsatisfied,Satisfied,High
+*,"[0, 80[",*,Male,"[5999.73, 9971.47[",57371.05,0.0,1872.13,Fixed Deposits,Retirement Planning,High ROI Investments,Implemented,Unsatisfied,Neutral,High
+*,"[0, 80[",*,Male,"[5999.73, 9971.47[",13481.44,0.0,3809.31,Bonds,Investment Strategy,Debt Reduction,Seeking Further Consultation,Very Satisfied,Unsatisfied,Low
+*,"[0, 80[",*,Male,"[5999.73, 9971.47[",33623.23,3979.7,1733.92,Gold,Savings Plan,Tax Savings,Seeking Further Consultation,Very Satisfied,Very Satisfied,Moderate
+*,"[0, 80[",*,Non-binary,"[5999.73, 9971.47[",15489.16,0.0,3953.21,Bonds,Retirement Planning,Increase Savings,Implemented,Neutral,Satisfied,Moderate
+*,*,*,*,*,26288.25,0.0,2307.09,*,Tax Planning,Retirement Fund Building,Partially Implemented,Very Unsatisfied,Very Satisfied,Moderate
+*,"[0, 80[",*,Male,"[2000.09, 5999.73[",5623.6,4361.49,1860.61,Real Estate,Debt Management,Tax Savings,Implemented,Neutral,Neutral,Moderate
+*,"[0, 80[",*,Non-binary,"[5999.73, 9971.47[",58490.98,0.0,3809.11,Bonds,Debt Management,Retirement Fund Building,Implemented,Neutral,Neutral,High
+*,"[0, 80[",*,Female,"[2000.09, 5999.73[",11225.22,3275.79,4937.91,Cryptocurrency,Retirement Planning,High ROI Investments,Partially Implemented,Very Satisfied,Very Satisfied,Moderate
+*,"[0, 80[",*,Non-binary,"[2000.09, 5999.73[",18080.53,0.0,4901.54,Bonds,Retirement Planning,Tax Savings,Implemented,Very Satisfied,Very Unsatisfied,Moderate
+*,"[0, 80[",*,Non-binary,"[5999.73, 9971.47[",58901.64,3480.85,3878.51,Fixed Deposits,Debt Management,Retirement Fund Building,Not Implemented,Satisfied,Neutral,High
+*,"[0, 80[",*,Male,"[5999.73, 9971.47[",33284.58,3406.99,4541.32,Bonds,Retirement Planning,Tax Savings,Partially Implemented,Very Satisfied,Unsatisfied,Low
+*,"[0, 80[",*,Female,"[5999.73, 9971.47[",31185.58,0.0,4924.4,Real Estate,Retirement Planning,Retirement Fund Building,Seeking Further Consultation,Unsatisfied,Very Satisfied,Low
+*,"[0, 80[",*,Male,"[5999.73, 9971.47[",8198.1,0.0,595.05,Real Estate,Tax Planning,High ROI Investments,Not Implemented,Very Unsatisfied,Very Satisfied,Low
+*,"[0, 80[",*,Non-binary,"[2000.09, 5999.73[",42976.98,0.0,3217.77,Bonds,Debt Management,High ROI Investments,Seeking Further Consultation,Neutral,Neutral,Low
+*,"[0, 80[",*,Female,"[2000.09, 5999.73[",12372.25,396.86,743.0,Fixed Deposits,Tax Planning,Increase Savings,Not Implemented,Satisfied,Satisfied,Low
+*,"[0, 80[",*,Female,"[5999.73, 9971.47[",14317.99,3356.35,4185.04,Mutual Funds,Investment Strategy,Tax Savings,Partially Implemented,Neutral,Satisfied,Low
+*,"[0, 80[",*,Non-binary,"[2000.09, 5999.73[",33332.6,4393.19,4961.81,Gold,Debt Management,Retirement Fund Building,Seeking Further Consultation,Satisfied,Very Unsatisfied,Moderate
+*,*,*,*,*,85085.62,2837.7,4888.09,*,Tax Planning,Debt Reduction,Partially Implemented,Very Satisfied,Unsatisfied,High
+*,"[0, 80[",*,Non-binary,"[5999.73, 9971.47[",53643.38,2787.26,4536.55,Bonds,Tax Planning,Increase Savings,Not Implemented,Neutral,Very Unsatisfied,High
+*,"[0, 80[",*,Non-binary,"[5999.73, 9971.47[",27567.09,0.0,605.22,Cryptocurrency,Investment Strategy,Increase Savings,Seeking Further Consultation,Very Unsatisfied,Satisfied,Low
+*,"[0, 80[",*,Male,"[5999.73, 9971.47[",13923.13,478.45,3277.38,Real Estate,Tax Planning,Increase Savings,Seeking Further Consultation,Very Unsatisfied,Satisfied,Moderate
+*,"[0, 80[",*,Non-binary,"[5999.73, 9971.47[",54068.18,0.0,1159.58,Real Estate,Retirement Planning,High ROI Investments,Implemented,Unsatisfied,Neutral,High
+*,"[0, 80[",*,Male,"[5999.73, 9971.47[",57344.15,0.0,2056.92,Cryptocurrency,Tax Planning,Retirement Fund Building,Implemented,Neutral,Unsatisfied,High
+*,"[0, 80[",*,Female,"[5999.73, 9971.47[",54183.79,697.71,3672.33,Fixed Deposits,Retirement Planning,Tax Savings,Seeking Further Consultation,Satisfied,Very Unsatisfied,Moderate
+*,"[0, 80[",*,Non-binary,"[5999.73, 9971.47[",27528.72,0.0,4771.82,Cryptocurrency,Investment Strategy,Retirement Fund Building,Partially Implemented,Very Unsatisfied,Very Unsatisfied,Moderate
+*,"[0, 80[",*,Male,"[5999.73, 9971.47[",66675.5,2633.05,1037.34,Fixed Deposits,Savings Plan,High ROI Investments,Implemented,Very Unsatisfied,Unsatisfied,High
+*,"[0, 80[",*,Male,"[2000.09, 5999.73[",12082.42,396.2,1004.44,Gold,Tax Planning,High ROI Investments,Partially Implemented,Unsatisfied,Very Satisfied,High
+*,*,*,*,*,29301.95,4983.95,4202.71,*,Savings Plan,High ROI Investments,Implemented,Neutral,Satisfied,High
+*,"[0, 80[",*,Female,"[2000.09, 5999.73[",92490.09,0.0,3920.0,Gold,Retirement Planning,Debt Reduction,Not Implemented,Neutral,Very Satisfied,High
+*,"[0, 80[",*,Female,"[5999.73, 9971.47[",55821.97,0.0,2679.43,Cryptocurrency,Retirement Planning,Debt Reduction,Implemented,Unsatisfied,Satisfied,Moderate
+*,"[0, 80[",*,Male,"[5999.73, 9971.47[",63086.9,3921.93,3046.87,Fixed Deposits,Tax Planning,Tax Savings,Partially Implemented,Very Unsatisfied,Unsatisfied,High
+*,*,*,*,*,39056.53,0.0,4745.01,*,Tax Planning,High ROI Investments,Seeking Further Consultation,Unsatisfied,Satisfied,Moderate
+*,"[0, 80[",*,Female,"[2000.09, 5999.73[",6885.57,0.0,4405.0,Stocks,Tax Planning,Retirement Fund Building,Partially Implemented,Very Unsatisfied,Very Satisfied,Low
+*,"[0, 80[",*,Female,"[5999.73, 9971.47[",5663.98,726.56,612.17,Bonds,Investment Strategy,High ROI Investments,Implemented,Neutral,Satisfied,Moderate
+*,"[0, 80[",*,Non-binary,"[2000.09, 5999.73[",37496.13,1510.21,2115.94,Real Estate,Tax Planning,Tax Savings,Seeking Further Consultation,Neutral,Very Satisfied,High
+*,"[0, 80[",*,Non-binary,"[2000.09, 5999.73[",24151.17,4547.29,893.25,Gold,Savings Plan,High ROI Investments,Not Implemented,Very Unsatisfied,Neutral,Moderate
+*,"[0, 80[",*,Non-binary,"[5999.73, 9971.47[",52558.93,0.0,2971.42,Gold,Retirement Planning,Increase Savings,Implemented,Unsatisfied,Very Unsatisfied,Low
+*,"[0, 80[",*,Female,"[5999.73, 9971.47[",84739.61,3762.4,2877.49,Bonds,Investment Strategy,Increase Savings,Seeking Further Consultation,Neutral,Very Satisfied,Low
+*,"[0, 80[",*,Female,"[2000.09, 5999.73[",37806.31,2087.56,3696.82,Stocks,Debt Management,Tax Savings,Not Implemented,Neutral,Very Satisfied,High
+*,*,*,*,*,28896.4,4374.87,4496.97,*,Debt Management,Increase Savings,Seeking Further Consultation,Very Satisfied,Very Unsatisfied,Moderate
+*,"[0, 80[",*,Male,"[5999.73, 9971.47[",43698.34,2039.2,2243.71,Bonds,Savings Plan,Tax Savings,Not Implemented,Very Unsatisfied,Neutral,Moderate
+*,"[0, 80[",*,Male,"[5999.73, 9971.47[",73896.93,3128.69,3117.47,Real Estate,Savings Plan,Increase Savings,Seeking Further Consultation,Neutral,Neutral,Low
+*,"[0, 80[",*,Male,"[5999.73, 9971.47[",47946.88,0.0,3218.97,Bonds,Savings Plan,High ROI Investments,Not Implemented,Neutral,Neutral,Moderate
+*,"[0, 80[",*,Female,"[2000.09, 5999.73[",65842.53,4475.83,4612.66,Fixed Deposits,Investment Strategy,Debt Reduction,Seeking Further Consultation,Very Satisfied,Very Satisfied,Moderate
+*,"[0, 80[",*,Non-binary,"[5999.73, 9971.47[",50607.14,4522.33,1898.87,Fixed Deposits,Tax Planning,High ROI Investments,Partially Implemented,Very Satisfied,Neutral,Low
+*,"[0, 80[",*,Non-binary,"[5999.73, 9971.47[",37018.96,3055.59,4171.63,Mutual Funds,Savings Plan,Tax Savings,Partially Implemented,Very Unsatisfied,Unsatisfied,High
+*,"[0, 80[",*,Female,"[5999.73, 9971.47[",53678.96,4256.0,930.35,Mutual Funds,Investment Strategy,Tax Savings,Not Implemented,Satisfied,Very Unsatisfied,Moderate
+*,"[0, 80[",*,Male,"[5999.73, 9971.47[",53626.91,0.0,785.81,Real Estate,Debt Management,High ROI Investments,Implemented,Very Satisfied,Satisfied,High
+*,"[0, 80[",*,Non-binary,"[5999.73, 9971.47[",9297.55,0.0,1750.42,Cryptocurrency,Debt Management,Tax Savings,Not Implemented,Satisfied,Unsatisfied,High
+*,*,*,*,*,14026.07,0.0,1516.28,*,Retirement Planning,High ROI Investments,Partially Implemented,Satisfied,Unsatisfied,High
+*,"[0, 80[",*,Male,"[5999.73, 9971.47[",9041.3,0.0,1239.13,Mutual Funds,Investment Strategy,Tax Savings,Partially Implemented,Very Unsatisfied,Satisfied,High
+*,*,*,*,*,71200.41,0.0,2908.09,*,Tax Planning,High ROI Investments,Implemented,Neutral,Unsatisfied,High
+*,"[0, 80[",*,Non-binary,"[2000.09, 5999.73[",22345.83,3899.69,3132.38,Gold,Debt Management,Tax Savings,Partially Implemented,Very Unsatisfied,Neutral,High
+*,"[0, 80[",*,Male,"[2000.09, 5999.73[",84785.36,0.0,4097.61,Bonds,Investment Strategy,Increase Savings,Implemented,Very Satisfied,Satisfied,High
+*,*,*,*,*,12994.51,0.0,2605.88,*,Savings Plan,Debt Reduction,Partially Implemented,Neutral,Neutral,Low
+*,"[0, 80[",*,Non-binary,"[5999.73, 9971.47[",89447.75,4188.31,1555.25,Real Estate,Retirement Planning,Increase Savings,Implemented,Unsatisfied,Neutral,Moderate
+*,"[0, 80[",*,Male,"[5999.73, 9971.47[",74349.69,750.34,1872.87,Stocks,Debt Management,Retirement Fund Building,Seeking Further Consultation,Satisfied,Satisfied,High
+*,*,*,*,*,42616.18,0.0,2822.7,*,Retirement Planning,Debt Reduction,Partially Implemented,Unsatisfied,Satisfied,Low
+*,"[0, 80[",*,Non-binary,"[5999.73, 9971.47[",87018.98,2276.9,2309.25,Fixed Deposits,Investment Strategy,Debt Reduction,Partially Implemented,Unsatisfied,Very Satisfied,High
+*,"[0, 80[",*,Male,"[2000.09, 5999.73[",93531.85,0.0,2882.9,Gold,Retirement Planning,High ROI Investments,Not Implemented,Satisfied,Neutral,Moderate
+*,"[0, 80[",*,Non-binary,"[2000.09, 5999.73[",40863.05,0.0,2017.42,Real Estate,Retirement Planning,High ROI Investments,Not Implemented,Very Satisfied,Very Satisfied,Moderate
+*,"[0, 80[",*,Female,"[2000.09, 5999.73[",79795.66,0.0,2654.24,Real Estate,Debt Management,Debt Reduction,Partially Implemented,Neutral,Neutral,Low
+*,*,*,*,*,64943.91,0.0,1413.04,*,Debt Management,Debt Reduction,Partially Implemented,Unsatisfied,Very Satisfied,Low
+*,"[0, 80[",*,Female,"[2000.09, 5999.73[",37066.02,108.23,2867.73,Stocks,Savings Plan,Debt Reduction,Not Implemented,Unsatisfied,Neutral,High
+*,"[0, 80[",*,Non-binary,"[2000.09, 5999.73[",58797.43,0.0,3797.74,Cryptocurrency,Tax Planning,Increase Savings,Seeking Further Consultation,Satisfied,Unsatisfied,Low
+*,"[0, 80[",*,Male,"[5999.73, 9971.47[",49434.41,0.0,3929.58,Mutual Funds,Retirement Planning,Increase Savings,Implemented,Very Unsatisfied,Very Unsatisfied,High
+*,"[0, 80[",*,Male,"[2000.09, 5999.73[",13087.78,0.0,2035.45,Gold,Investment Strategy,Retirement Fund Building,Partially Implemented,Very Unsatisfied,Satisfied,Moderate
+*,"[0, 80[",*,Non-binary,"[5999.73, 9971.47[",35835.55,0.0,1955.3,Gold,Retirement Planning,Tax Savings,Seeking Further Consultation,Very Satisfied,Neutral,Low
+*,*,*,*,*,75747.58,4143.73,1219.59,*,Investment Strategy,Tax Savings,Partially Implemented,Satisfied,Very Satisfied,High
+*,"[0, 80[",*,Female,"[5999.73, 9971.47[",36569.49,3201.92,4078.69,Real Estate,Investment Strategy,Increase Savings,Seeking Further Consultation,Unsatisfied,Very Unsatisfied,Low
+*,"[0, 80[",*,Male,"[5999.73, 9971.47[",8251.71,0.0,2157.09,Gold,Investment Strategy,High ROI Investments,Implemented,Neutral,Neutral,Moderate
+*,"[0, 80[",*,Male,"[2000.09, 5999.73[",44896.88,0.0,2185.74,Gold,Retirement Planning,High ROI Investments,Partially Implemented,Very Unsatisfied,Very Unsatisfied,Moderate
+*,"[0, 80[",*,Non-binary,"[2000.09, 5999.73[",79924.24,1359.94,3565.8,Gold,Debt Management,High ROI Investments,Implemented,Satisfied,Very Satisfied,High
+*,"[0, 80[",*,Non-binary,"[2000.09, 5999.73[",11363.37,0.0,4734.04,Mutual Funds,Retirement Planning,Increase Savings,Partially Implemented,Very Unsatisfied,Neutral,Low
+*,"[0, 80[",*,Non-binary,"[5999.73, 9971.47[",70043.88,1697.35,1493.22,Real Estate,Savings Plan,Increase Savings,Not Implemented,Neutral,Very Unsatisfied,High
+*,"[0, 80[",*,Non-binary,"[5999.73, 9971.47[",39095.9,0.0,3613.88,Gold,Savings Plan,Tax Savings,Not Implemented,Unsatisfied,Satisfied,High
+*,"[0, 80[",*,Male,"[5999.73, 9971.47[",54389.96,484.72,4047.46,Mutual Funds,Tax Planning,Retirement Fund Building,Partially Implemented,Neutral,Unsatisfied,Low
+*,"[0, 80[",*,Female,"[5999.73, 9971.47[",29666.44,0.0,4706.07,Cryptocurrency,Tax Planning,Tax Savings,Not Implemented,Neutral,Neutral,Moderate
+*,"[0, 80[",*,Male,"[5999.73, 9971.47[",5612.01,0.0,4187.2,Mutual Funds,Investment Strategy,High ROI Investments,Seeking Further Consultation,Very Unsatisfied,Unsatisfied,High
+*,"[0, 80[",*,Female,"[5999.73, 9971.47[",77806.15,0.0,3172.67,Mutual Funds,Tax Planning,Retirement Fund Building,Seeking Further Consultation,Very Satisfied,Very Unsatisfied,Low
+*,"[0, 80[",*,Female,"[5999.73, 9971.47[",84620.48,4322.87,3949.03,Fixed Deposits,Debt Management,Debt Reduction,Implemented,Very Satisfied,Very Satisfied,Low
+*,"[0, 80[",*,Non-binary,"[2000.09, 5999.73[",32435.86,0.0,4524.52,Bonds,Savings Plan,Increase Savings,Implemented,Neutral,Very Satisfied,Moderate
+*,"[0, 80[",*,Female,"[5999.73, 9971.47[",45198.69,0.0,3207.59,Real Estate,Tax Planning,Tax Savings,Partially Implemented,Satisfied,Satisfied,High
+*,"[0, 80[",*,Non-binary,"[5999.73, 9971.47[",57211.35,2282.82,604.94,Cryptocurrency,Investment Strategy,Retirement Fund Building,Seeking Further Consultation,Neutral,Unsatisfied,Moderate
+*,*,*,*,*,20553.34,99.41,2033.15,*,Retirement Planning,High ROI Investments,Seeking Further Consultation,Very Satisfied,Very Satisfied,Low
+*,"[0, 80[",*,Female,"[2000.09, 5999.73[",90568.54,3712.58,4686.49,Real Estate,Investment Strategy,High ROI Investments,Partially Implemented,Satisfied,Neutral,Low
+*,"[0, 80[",*,Male,"[5999.73, 9971.47[",40426.88,403.89,1673.62,Cryptocurrency,Tax Planning,Increase Savings,Seeking Further Consultation,Very Unsatisfied,Neutral,Moderate
+*,"[0, 80[",*,Male,"[5999.73, 9971.47[",91238.65,2072.91,3039.95,Fixed Deposits,Debt Management,Debt Reduction,Not Implemented,Unsatisfied,Neutral,Low
+*,"[0, 80[",*,Male,"[2000.09, 5999.73[",19920.25,4802.26,1452.03,Bonds,Savings Plan,Tax Savings,Seeking Further Consultation,Neutral,Very Satisfied,High
+*,"[0, 80[",*,Male,"[5999.73, 9971.47[",68793.67,0.0,1624.53,Fixed Deposits,Tax Planning,Tax Savings,Partially Implemented,Satisfied,Very Unsatisfied,Low
+*,*,*,*,*,76564.99,0.0,3385.17,*,Tax Planning,Debt Reduction,Not Implemented,Satisfied,Neutral,Moderate
+*,"[0, 80[",*,Female,"[5999.73, 9971.47[",22594.62,1246.54,4256.33,Cryptocurrency,Investment Strategy,Increase Savings,Seeking Further Consultation,Very Unsatisfied,Very Satisfied,Moderate
+*,"[0, 80[",*,Male,"[5999.73, 9971.47[",22987.03,0.0,4885.17,Stocks,Investment Strategy,Tax Savings,Not Implemented,Satisfied,Unsatisfied,Low
+*,*,*,*,*,90100.66,0.0,879.18,*,Savings Plan,Debt Reduction,Implemented,Satisfied,Neutral,Low
+*,"[0, 80[",*,Non-binary,"[5999.73, 9971.47[",73013.99,3863.01,4237.35,Cryptocurrency,Savings Plan,Debt Reduction,Implemented,Unsatisfied,Unsatisfied,High
+*,"[0, 80[",*,Female,"[5999.73, 9971.47[",36635.97,0.0,4796.06,Mutual Funds,Retirement Planning,Retirement Fund Building,Not Implemented,Unsatisfied,Neutral,High
+*,"[0, 80[",*,Male,"[5999.73, 9971.47[",61477.64,551.65,4988.79,Mutual Funds,Debt Management,Increase Savings,Seeking Further Consultation,Satisfied,Unsatisfied,Moderate
+*,"[0, 80[",*,Male,"[2000.09, 5999.73[",55329.83,0.0,1205.27,Real Estate,Savings Plan,Debt Reduction,Implemented,Neutral,Neutral,Low
+*,"[0, 80[",*,Male,"[5999.73, 9971.47[",21456.01,0.0,1896.69,Bonds,Savings Plan,Retirement Fund Building,Implemented,Unsatisfied,Neutral,Moderate
+*,"[0, 80[",*,Male,"[5999.73, 9971.47[",24538.64,0.0,3144.19,Stocks,Retirement Planning,Debt Reduction,Partially Implemented,Unsatisfied,Very Unsatisfied,Moderate
+*,"[0, 80[",*,Male,"[5999.73, 9971.47[",70799.92,0.0,4454.87,Stocks,Savings Plan,Tax Savings,Implemented,Satisfied,Very Satisfied,Low
+*,"[0, 80[",*,Male,"[2000.09, 5999.73[",84581.42,388.68,2694.23,Real Estate,Retirement Planning,Tax Savings,Seeking Further Consultation,Neutral,Very Unsatisfied,Moderate
+*,"[0, 80[",*,Female,"[2000.09, 5999.73[",23263.34,0.0,4005.45,Real Estate,Debt Management,Retirement Fund Building,Implemented,Unsatisfied,Unsatisfied,High
+*,"[0, 80[",*,Male,"[5999.73, 9971.47[",85759.29,2877.03,945.88,Real Estate,Investment Strategy,Tax Savings,Seeking Further Consultation,Unsatisfied,Neutral,Moderate
+*,*,*,*,*,57033.74,0.0,1127.46,*,Retirement Planning,Retirement Fund Building,Not Implemented,Very Unsatisfied,Neutral,High
+*,"[0, 80[",*,Male,"[5999.73, 9971.47[",84533.18,699.86,1510.03,Bonds,Tax Planning,High ROI Investments,Implemented,Neutral,Neutral,Low
+*,"[0, 80[",*,Female,"[5999.73, 9971.47[",9771.53,1074.58,4082.54,Gold,Tax Planning,High ROI Investments,Implemented,Unsatisfied,Satisfied,Moderate
+*,"[0, 80[",*,Non-binary,"[5999.73, 9971.47[",64786.43,2424.26,4344.97,Cryptocurrency,Investment Strategy,Increase Savings,Not Implemented,Very Unsatisfied,Unsatisfied,High
+*,*,*,*,*,97462.33,408.11,4718.05,*,Tax Planning,Tax Savings,Seeking Further Consultation,Very Satisfied,Unsatisfied,High
+*,"[0, 80[",*,Male,"[2000.09, 5999.73[",96351.16,4476.51,598.04,Real Estate,Savings Plan,Debt Reduction,Not Implemented,Unsatisfied,Satisfied,Moderate
+*,"[0, 80[",*,Male,"[2000.09, 5999.73[",98010.46,0.0,4142.62,Real Estate,Investment Strategy,High ROI Investments,Partially Implemented,Unsatisfied,Satisfied,High
+*,"[0, 80[",*,Non-binary,"[5999.73, 9971.47[",70077.37,0.0,4285.94,Fixed Deposits,Savings Plan,Retirement Fund Building,Implemented,Very Satisfied,Very Satisfied,Moderate
+*,*,*,*,*,76711.25,0.0,2358.7,*,Savings Plan,Debt Reduction,Implemented,Very Satisfied,Unsatisfied,Moderate
+*,"[0, 80[",*,Female,"[2000.09, 5999.73[",25797.82,1928.43,2208.02,Real Estate,Investment Strategy,High ROI Investments,Not Implemented,Satisfied,Neutral,High
+*,"[0, 80[",*,Non-binary,"[5999.73, 9971.47[",42117.13,0.0,1788.49,Fixed Deposits,Tax Planning,Increase Savings,Seeking Further Consultation,Very Unsatisfied,Satisfied,High
+*,"[0, 80[",*,Male,"[2000.09, 5999.73[",43905.22,1187.77,1090.2,Bonds,Debt Management,Tax Savings,Partially Implemented,Unsatisfied,Unsatisfied,Low
+*,"[0, 80[",*,Non-binary,"[2000.09, 5999.73[",67301.44,0.0,4043.55,Mutual Funds,Investment Strategy,Tax Savings,Not Implemented,Satisfied,Satisfied,Low
+*,"[0, 80[",*,Female,"[5999.73, 9971.47[",15885.94,2310.16,2575.01,Real Estate,Debt Management,High ROI Investments,Partially Implemented,Very Satisfied,Satisfied,Low
+*,"[0, 80[",*,Female,"[2000.09, 5999.73[",74442.76,0.0,1785.89,Mutual Funds,Investment Strategy,Increase Savings,Not Implemented,Very Unsatisfied,Very Unsatisfied,Moderate
+*,"[0, 80[",*,Female,"[5999.73, 9971.47[",96824.45,0.0,3727.05,Gold,Debt Management,High ROI Investments,Implemented,Satisfied,Unsatisfied,High
+*,"[0, 80[",*,Non-binary,"[2000.09, 5999.73[",14097.22,0.0,3964.54,Cryptocurrency,Debt Management,Debt Reduction,Partially Implemented,Unsatisfied,Neutral,High
+*,"[0, 80[",*,Male,"[5999.73, 9971.47[",44718.27,0.0,1661.21,Mutual Funds,Savings Plan,Increase Savings,Partially Implemented,Neutral,Neutral,Moderate
+*,"[0, 80[",*,Non-binary,"[5999.73, 9971.47[",98581.43,686.54,4276.38,Mutual Funds,Tax Planning,Debt Reduction,Implemented,Neutral,Very Satisfied,Moderate
+*,*,*,*,*,25508.9,0.0,3625.9,*,Savings Plan,Debt Reduction,Not Implemented,Very Unsatisfied,Neutral,High
+*,"[0, 80[",*,Non-binary,"[2000.09, 5999.73[",36772.39,1378.9,2529.67,Fixed Deposits,Savings Plan,High ROI Investments,Seeking Further Consultation,Unsatisfied,Unsatisfied,Moderate
+*,"[0, 80[",*,Female,"[2000.09, 5999.73[",65036.42,2956.84,2799.82,Mutual Funds,Debt Management,Tax Savings,Seeking Further Consultation,Very Unsatisfied,Neutral,Moderate
+*,"[0, 80[",*,Non-binary,"[2000.09, 5999.73[",62081.26,0.0,2810.5,Real Estate,Retirement Planning,Debt Reduction,Not Implemented,Unsatisfied,Very Satisfied,Low
+*,"[0, 80[",*,Female,"[5999.73, 9971.47[",45217.02,0.0,3355.37,Real Estate,Debt Management,High ROI Investments,Partially Implemented,Satisfied,Neutral,Low
+*,"[0, 80[",*,Non-binary,"[2000.09, 5999.73[",17128.31,1753.07,2791.93,Cryptocurrency,Investment Strategy,Tax Savings,Implemented,Very Unsatisfied,Very Satisfied,Low
+*,"[0, 80[",*,Male,"[2000.09, 5999.73[",21715.59,4130.34,1012.67,Real Estate,Tax Planning,High ROI Investments,Implemented,Neutral,Unsatisfied,Moderate
+*,"[0, 80[",*,Female,"[2000.09, 5999.73[",30426.47,0.0,597.57,Cryptocurrency,Tax Planning,Retirement Fund Building,Implemented,Very Satisfied,Very Unsatisfied,Low
+*,"[0, 80[",*,Female,"[5999.73, 9971.47[",98493.6,3891.8,1950.43,Mutual Funds,Tax Planning,Debt Reduction,Partially Implemented,Very Satisfied,Very Satisfied,Low
+*,"[0, 80[",*,Non-binary,"[2000.09, 5999.73[",60848.12,0.0,2257.41,Bonds,Tax Planning,Debt Reduction,Seeking Further Consultation,Unsatisfied,Very Unsatisfied,Low
+*,"[0, 80[",*,Male,"[5999.73, 9971.47[",42614.87,3946.12,1201.12,Real Estate,Investment Strategy,Debt Reduction,Seeking Further Consultation,Unsatisfied,Satisfied,Low
+*,"[0, 80[",*,Male,"[5999.73, 9971.47[",25774.7,0.0,3788.3,Real Estate,Retirement Planning,Increase Savings,Implemented,Very Satisfied,Very Unsatisfied,High
+*,"[0, 80[",*,Female,"[5999.73, 9971.47[",21128.28,0.0,3307.9,Gold,Debt Management,Debt Reduction,Implemented,Satisfied,Unsatisfied,Moderate
+*,"[0, 80[",*,Non-binary,"[5999.73, 9971.47[",95055.32,4595.68,3269.55,Bonds,Debt Management,High ROI Investments,Not Implemented,Very Unsatisfied,Satisfied,Moderate
+*,"[0, 80[",*,Female,"[5999.73, 9971.47[",87798.67,1073.52,2343.34,Fixed Deposits,Investment Strategy,Retirement Fund Building,Partially Implemented,Satisfied,Satisfied,Low
+*,*,*,*,*,15049.64,1613.29,2495.34,*,Savings Plan,Tax Savings,Implemented,Unsatisfied,Very Satisfied,Moderate
+*,"[0, 80[",*,Female,"[5999.73, 9971.47[",64439.19,0.0,3485.19,Cryptocurrency,Investment Strategy,High ROI Investments,Seeking Further Consultation,Very Satisfied,Very Satisfied,Moderate
+*,"[0, 80[",*,Non-binary,"[5999.73, 9971.47[",94776.07,0.0,2729.63,Mutual Funds,Savings Plan,High ROI Investments,Implemented,Unsatisfied,Very Satisfied,High
+*,"[0, 80[",*,Non-binary,"[2000.09, 5999.73[",82966.55,0.0,4826.65,Fixed Deposits,Tax Planning,Debt Reduction,Not Implemented,Very Unsatisfied,Unsatisfied,Moderate
+*,"[0, 80[",*,Non-binary,"[2000.09, 5999.73[",23937.18,512.34,1702.21,Gold,Retirement Planning,Increase Savings,Implemented,Very Unsatisfied,Unsatisfied,Low
+*,"[0, 80[",*,Non-binary,"[2000.09, 5999.73[",94130.26,3788.06,4688.44,Cryptocurrency,Investment Strategy,Increase Savings,Partially Implemented,Very Unsatisfied,Unsatisfied,Moderate
+*,"[0, 80[",*,Non-binary,"[5999.73, 9971.47[",11136.24,14.92,2077.64,Mutual Funds,Tax Planning,Debt Reduction,Not Implemented,Very Satisfied,Neutral,High
+*,"[0, 80[",*,Non-binary,"[5999.73, 9971.47[",11321.98,0.0,851.22,Fixed Deposits,Savings Plan,Debt Reduction,Not Implemented,Unsatisfied,Satisfied,Moderate
+*,"[0, 80[",*,Male,"[5999.73, 9971.47[",29528.01,1855.57,4288.43,Cryptocurrency,Retirement Planning,Retirement Fund Building,Implemented,Satisfied,Very Unsatisfied,Moderate
+*,"[0, 80[",*,Non-binary,"[5999.73, 9971.47[",61176.07,0.0,3552.46,Cryptocurrency,Tax Planning,High ROI Investments,Not Implemented,Neutral,Very Unsatisfied,Low
+*,"[0, 80[",*,Male,"[5999.73, 9971.47[",37578.08,0.0,1979.94,Stocks,Savings Plan,High ROI Investments,Partially Implemented,Unsatisfied,Satisfied,High
+*,"[0, 80[",*,Non-binary,"[2000.09, 5999.73[",52176.53,2560.35,2119.75,Bonds,Tax Planning,High ROI Investments,Implemented,Unsatisfied,Neutral,Moderate
+*,*,*,*,*,95071.07,0.0,3153.46,*,Retirement Planning,Increase Savings,Not Implemented,Very Unsatisfied,Satisfied,Moderate
+*,"[0, 80[",*,Non-binary,"[5999.73, 9971.47[",18124.36,2206.08,1319.94,Cryptocurrency,Tax Planning,Increase Savings,Implemented,Very Satisfied,Very Unsatisfied,Low
+*,"[0, 80[",*,Male,"[5999.73, 9971.47[",77247.07,2071.69,1683.11,Cryptocurrency,Tax Planning,Increase Savings,Seeking Further Consultation,Satisfied,Very Satisfied,High
+*,"[0, 80[",*,Female,"[5999.73, 9971.47[",88981.1,2550.52,885.56,Cryptocurrency,Debt Management,Debt Reduction,Implemented,Unsatisfied,Unsatisfied,Low
+*,"[0, 80[",*,Non-binary,"[5999.73, 9971.47[",98942.78,4893.86,942.84,Fixed Deposits,Savings Plan,Debt Reduction,Implemented,Neutral,Very Unsatisfied,High
+*,"[0, 80[",*,Male,"[5999.73, 9971.47[",86885.76,2033.55,3436.55,Cryptocurrency,Retirement Planning,Tax Savings,Not Implemented,Neutral,Unsatisfied,High
+*,"[0, 80[",*,Male,"[5999.73, 9971.47[",33914.27,974.14,2073.5,Mutual Funds,Debt Management,Increase Savings,Implemented,Unsatisfied,Very Satisfied,Low
+*,"[0, 80[",*,Female,"[5999.73, 9971.47[",70757.78,4263.64,1201.95,Real Estate,Retirement Planning,Tax Savings,Seeking Further Consultation,Very Satisfied,Neutral,Low
+*,*,*,*,*,78816.37,0.0,4163.77,*,Retirement Planning,Increase Savings,Seeking Further Consultation,Very Satisfied,Neutral,Moderate
+*,"[0, 80[",*,Male,"[5999.73, 9971.47[",43756.45,0.0,1781.58,Fixed Deposits,Tax Planning,Tax Savings,Implemented,Unsatisfied,Very Unsatisfied,High
+*,"[0, 80[",*,Female,"[5999.73, 9971.47[",15537.92,0.0,1215.52,Stocks,Retirement Planning,Debt Reduction,Partially Implemented,Neutral,Unsatisfied,High
+*,"[0, 80[",*,Female,"[2000.09, 5999.73[",11737.94,3857.1,4761.54,Real Estate,Investment Strategy,Retirement Fund Building,Not Implemented,Satisfied,Neutral,Moderate
+*,"[0, 80[",*,Male,"[5999.73, 9971.47[",25551.27,0.0,2040.38,Gold,Savings Plan,Increase Savings,Not Implemented,Neutral,Neutral,High
+*,"[0, 80[",*,Female,"[2000.09, 5999.73[",93735.11,344.01,2529.42,Mutual Funds,Investment Strategy,Tax Savings,Implemented,Satisfied,Satisfied,Low
+*,"[0, 80[",*,Female,"[2000.09, 5999.73[",82802.89,0.0,4506.53,Real Estate,Tax Planning,High ROI Investments,Partially Implemented,Neutral,Unsatisfied,Moderate
+*,"[0, 80[",*,Non-binary,"[2000.09, 5999.73[",15432.32,0.0,2666.23,Cryptocurrency,Debt Management,Increase Savings,Implemented,Unsatisfied,Neutral,Low
+*,"[0, 80[",*,Female,"[2000.09, 5999.73[",54208.26,0.0,3886.89,Cryptocurrency,Savings Plan,Retirement Fund Building,Implemented,Very Satisfied,Very Satisfied,Low
+*,"[0, 80[",*,Male,"[2000.09, 5999.73[",61260.31,0.0,4710.64,Bonds,Retirement Planning,High ROI Investments,Implemented,Very Satisfied,Unsatisfied,Moderate
+*,*,*,*,*,16914.78,0.0,4126.75,*,Investment Strategy,Increase Savings,Implemented,Very Satisfied,Very Unsatisfied,Low
+*,"[0, 80[",*,Male,"[5999.73, 9971.47[",15279.24,0.0,1981.99,Stocks,Debt Management,Tax Savings,Seeking Further Consultation,Unsatisfied,Neutral,High
+*,*,*,*,*,63480.61,0.0,2787.28,*,Savings Plan,Debt Reduction,Implemented,Unsatisfied,Very Unsatisfied,Low
+*,"[0, 80[",*,Non-binary,"[5999.73, 9971.47[",15956.23,4462.0,3159.1,Bonds,Retirement Planning,Debt Reduction,Seeking Further Consultation,Satisfied,Neutral,High
+*,"[0, 80[",*,Non-binary,"[5999.73, 9971.47[",36552.74,802.78,3272.74,Cryptocurrency,Savings Plan,High ROI Investments,Seeking Further Consultation,Satisfied,Very Unsatisfied,Low
+*,"[0, 80[",*,Male,"[5999.73, 9971.47[",93940.24,0.0,4401.06,Cryptocurrency,Savings Plan,Increase Savings,Implemented,Satisfied,Satisfied,High
+*,"[0, 80[",*,Female,"[5999.73, 9971.47[",93950.56,0.0,3639.74,Bonds,Retirement Planning,Retirement Fund Building,Partially Implemented,Very Unsatisfied,Very Satisfied,Low
+*,"[0, 80[",*,Male,"[5999.73, 9971.47[",64845.84,3771.41,2241.71,Fixed Deposits,Investment Strategy,Debt Reduction,Not Implemented,Very Unsatisfied,Neutral,Moderate
+*,"[0, 80[",*,Female,"[5999.73, 9971.47[",54653.58,0.0,3451.04,Stocks,Savings Plan,Debt Reduction,Seeking Further Consultation,Satisfied,Unsatisfied,Moderate
+*,"[0, 80[",*,Non-binary,"[5999.73, 9971.47[",93767.01,0.0,2791.99,Mutual Funds,Retirement Planning,Tax Savings,Partially Implemented,Satisfied,Satisfied,Low
+*,"[0, 80[",*,Female,"[5999.73, 9971.47[",60253.56,0.0,4457.23,Fixed Deposits,Debt Management,Debt Reduction,Not Implemented,Satisfied,Very Unsatisfied,Low
+*,"[0, 80[",*,Female,"[5999.73, 9971.47[",73146.98,4779.07,3090.33,Real Estate,Debt Management,Debt Reduction,Seeking Further Consultation,Very Satisfied,Very Unsatisfied,High
+*,"[0, 80[",*,Non-binary,"[2000.09, 5999.73[",85039.33,453.92,2864.98,Fixed Deposits,Retirement Planning,Increase Savings,Not Implemented,Very Unsatisfied,Satisfied,Moderate
+*,"[0, 80[",*,Male,"[5999.73, 9971.47[",51811.8,0.0,4968.96,Real Estate,Tax Planning,Increase Savings,Seeking Further Consultation,Satisfied,Very Satisfied,Low
+*,"[0, 80[",*,Female,"[2000.09, 5999.73[",43091.72,0.0,988.02,Stocks,Debt Management,Increase Savings,Seeking Further Consultation,Very Unsatisfied,Very Unsatisfied,Moderate
+*,"[0, 80[",*,Female,"[2000.09, 5999.73[",23991.11,3827.76,4644.33,Fixed Deposits,Retirement Planning,Debt Reduction,Implemented,Very Unsatisfied,Satisfied,Moderate
+*,"[0, 80[",*,Male,"[2000.09, 5999.73[",79108.13,1074.18,666.76,Gold,Savings Plan,Debt Reduction,Not Implemented,Very Satisfied,Satisfied,High
+*,"[0, 80[",*,Non-binary,"[5999.73, 9971.47[",11468.88,3223.89,2164.75,Cryptocurrency,Savings Plan,Retirement Fund Building,Not Implemented,Very Unsatisfied,Very Satisfied,Low
+*,"[0, 80[",*,Female,"[5999.73, 9971.47[",99102.06,3424.28,1970.23,Gold,Savings Plan,Tax Savings,Not Implemented,Satisfied,Neutral,Moderate
+*,"[0, 80[",*,Female,"[5999.73, 9971.47[",89261.66,0.0,2823.38,Cryptocurrency,Retirement Planning,Tax Savings,Implemented,Satisfied,Unsatisfied,Low
+*,"[0, 80[",*,Non-binary,"[2000.09, 5999.73[",82690.0,0.0,4980.07,Mutual Funds,Savings Plan,Debt Reduction,Seeking Further Consultation,Satisfied,Unsatisfied,Moderate
+*,"[0, 80[",*,Male,"[2000.09, 5999.73[",38255.57,1894.3,2338.19,Bonds,Debt Management,Debt Reduction,Seeking Further Consultation,Satisfied,Very Satisfied,High
+*,"[0, 80[",*,Non-binary,"[2000.09, 5999.73[",61406.06,0.0,2529.15,Mutual Funds,Debt Management,High ROI Investments,Partially Implemented,Unsatisfied,Very Unsatisfied,Moderate
+*,"[0, 80[",*,Male,"[5999.73, 9971.47[",81044.78,0.0,3861.59,Cryptocurrency,Retirement Planning,Tax Savings,Seeking Further Consultation,Unsatisfied,Satisfied,Low
+*,*,*,*,*,54289.67,0.0,4966.38,*,Investment Strategy,Debt Reduction,Seeking Further Consultation,Unsatisfied,Very Unsatisfied,High
+*,"[0, 80[",*,Non-binary,"[5999.73, 9971.47[",57682.45,0.0,2616.43,Mutual Funds,Savings Plan,Debt Reduction,Seeking Further Consultation,Very Unsatisfied,Satisfied,High
+*,"[0, 80[",*,Female,"[5999.73, 9971.47[",38396.05,3872.46,1805.8,Stocks,Retirement Planning,Debt Reduction,Seeking Further Consultation,Very Satisfied,Very Satisfied,Moderate
+*,*,*,*,*,90472.16,360.46,1933.85,*,Tax Planning,Retirement Fund Building,Not Implemented,Satisfied,Very Unsatisfied,Low
+*,*,*,*,*,96313.48,0.0,613.87,*,Debt Management,Tax Savings,Partially Implemented,Very Unsatisfied,Very Satisfied,Low
+*,"[0, 80[",*,Male,"[2000.09, 5999.73[",11137.71,4275.97,4188.2,Gold,Investment Strategy,Retirement Fund Building,Implemented,Satisfied,Very Satisfied,Moderate
+*,"[0, 80[",*,Female,"[5999.73, 9971.47[",43576.38,0.0,3488.43,Cryptocurrency,Debt Management,High ROI Investments,Seeking Further Consultation,Unsatisfied,Very Satisfied,Moderate
+*,"[0, 80[",*,Non-binary,"[5999.73, 9971.47[",10297.84,40.25,510.05,Cryptocurrency,Tax Planning,Debt Reduction,Not Implemented,Neutral,Unsatisfied,High
+*,"[0, 80[",*,Non-binary,"[2000.09, 5999.73[",91896.49,848.8,3553.13,Mutual Funds,Retirement Planning,Tax Savings,Partially Implemented,Very Unsatisfied,Very Satisfied,Low
+*,*,*,*,*,74432.21,791.02,3688.01,*,Savings Plan,Retirement Fund Building,Not Implemented,Very Unsatisfied,Satisfied,Moderate
+*,"[0, 80[",*,Female,"[5999.73, 9971.47[",70531.76,4145.32,688.44,Stocks,Savings Plan,High ROI Investments,Seeking Further Consultation,Neutral,Satisfied,Moderate
+*,"[0, 80[",*,Male,"[2000.09, 5999.73[",31423.8,0.0,1020.53,Gold,Tax Planning,Debt Reduction,Partially Implemented,Satisfied,Unsatisfied,High
+*,*,*,*,*,11538.11,0.0,812.94,*,Investment Strategy,Increase Savings,Seeking Further Consultation,Satisfied,Very Unsatisfied,Moderate
+*,"[0, 80[",*,Non-binary,"[2000.09, 5999.73[",42123.85,2624.0,4301.75,Mutual Funds,Debt Management,Retirement Fund Building,Seeking Further Consultation,Satisfied,Neutral,High
+*,"[0, 80[",*,Female,"[2000.09, 5999.73[",67973.14,3955.31,3472.96,Stocks,Tax Planning,Increase Savings,Implemented,Unsatisfied,Satisfied,Low
+*,*,*,*,*,22533.49,0.0,4060.46,*,Savings Plan,Debt Reduction,Not Implemented,Very Satisfied,Neutral,Low
+*,*,*,*,*,96527.28,0.0,1279.2,*,Retirement Planning,High ROI Investments,Not Implemented,Neutral,Unsatisfied,Low
+*,"[0, 80[",*,Non-binary,"[2000.09, 5999.73[",88564.2,3244.19,1092.44,Real Estate,Savings Plan,Retirement Fund Building,Partially Implemented,Very Unsatisfied,Very Unsatisfied,Moderate
+*,"[0, 80[",*,Female,"[5999.73, 9971.47[",85661.53,4982.09,4054.23,Gold,Retirement Planning,Retirement Fund Building,Partially Implemented,Very Unsatisfied,Neutral,Low
+*,"[0, 80[",*,Female,"[5999.73, 9971.47[",18026.2,2272.79,3219.21,Bonds,Debt Management,Increase Savings,Not Implemented,Very Unsatisfied,Neutral,Moderate
+*,"[0, 80[",*,Female,"[2000.09, 5999.73[",65975.96,3295.5,1677.08,Mutual Funds,Retirement Planning,Retirement Fund Building,Implemented,Neutral,Very Unsatisfied,Moderate
+*,"[0, 80[",*,Male,"[2000.09, 5999.73[",40904.41,2000.12,1180.76,Bonds,Savings Plan,High ROI Investments,Implemented,Neutral,Neutral,Low
+*,"[0, 80[",*,Non-binary,"[5999.73, 9971.47[",91130.32,0.0,3078.6,Bonds,Tax Planning,Retirement Fund Building,Partially Implemented,Unsatisfied,Satisfied,High
+*,"[0, 80[",*,Female,"[5999.73, 9971.47[",56330.21,4205.23,684.6,Fixed Deposits,Savings Plan,Increase Savings,Seeking Further Consultation,Neutral,Very Unsatisfied,Moderate
+*,"[0, 80[",*,Female,"[5999.73, 9971.47[",71025.3,0.0,2184.09,Real Estate,Retirement Planning,Increase Savings,Partially Implemented,Unsatisfied,Neutral,Low
+*,"[0, 80[",*,Male,"[5999.73, 9971.47[",73057.13,0.0,3966.15,Fixed Deposits,Tax Planning,High ROI Investments,Implemented,Unsatisfied,Satisfied,High
+*,*,*,*,*,69108.9,0.0,3936.85,*,Debt Management,Debt Reduction,Seeking Further Consultation,Unsatisfied,Unsatisfied,High
+*,*,*,*,*,28593.91,0.0,2275.86,*,Investment Strategy,Increase Savings,Implemented,Neutral,Very Unsatisfied,Low
+*,"[0, 80[",*,Male,"[2000.09, 5999.73[",76980.45,3047.02,4854.42,Bonds,Retirement Planning,Debt Reduction,Implemented,Satisfied,Neutral,Low
+*,"[0, 80[",*,Female,"[2000.09, 5999.73[",56414.27,1647.91,1131.89,Cryptocurrency,Investment Strategy,Tax Savings,Seeking Further Consultation,Neutral,Very Unsatisfied,High
+*,"[0, 80[",*,Non-binary,"[5999.73, 9971.47[",27425.77,970.04,4220.35,Mutual Funds,Retirement Planning,Increase Savings,Implemented,Neutral,Unsatisfied,High
+*,"[0, 80[",*,Female,"[5999.73, 9971.47[",86725.11,2005.28,4220.55,Stocks,Debt Management,Debt Reduction,Partially Implemented,Very Unsatisfied,Very Unsatisfied,Moderate
+*,"[0, 80[",*,Female,"[5999.73, 9971.47[",26589.11,90.56,1881.18,Bonds,Investment Strategy,Debt Reduction,Partially Implemented,Satisfied,Neutral,Low
+*,*,*,*,*,36812.05,0.0,1755.54,*,Retirement Planning,Increase Savings,Seeking Further Consultation,Very Satisfied,Very Satisfied,Moderate
+*,"[0, 80[",*,Non-binary,"[2000.09, 5999.73[",44969.87,0.0,1681.58,Real Estate,Tax Planning,Retirement Fund Building,Implemented,Unsatisfied,Unsatisfied,Moderate
+*,"[0, 80[",*,Female,"[2000.09, 5999.73[",69578.7,681.92,1999.81,Stocks,Retirement Planning,Increase Savings,Implemented,Unsatisfied,Very Unsatisfied,Low
+*,*,*,*,*,39053.63,4081.05,1959.82,*,Debt Management,High ROI Investments,Seeking Further Consultation,Satisfied,Satisfied,Moderate
+*,"[0, 80[",*,Non-binary,"[2000.09, 5999.73[",41722.11,3634.27,1911.68,Gold,Debt Management,Debt Reduction,Seeking Further Consultation,Neutral,Very Unsatisfied,High
+*,"[0, 80[",*,Male,"[2000.09, 5999.73[",9264.81,0.0,1078.24,Gold,Retirement Planning,High ROI Investments,Partially Implemented,Unsatisfied,Very Satisfied,High
+*,"[0, 80[",*,Non-binary,"[5999.73, 9971.47[",66521.64,0.0,674.05,Gold,Tax Planning,Increase Savings,Seeking Further Consultation,Very Satisfied,Satisfied,Moderate
+*,"[0, 80[",*,Non-binary,"[2000.09, 5999.73[",85795.67,0.0,1288.62,Bonds,Debt Management,Debt Reduction,Not Implemented,Unsatisfied,Neutral,High
+*,"[0, 80[",*,Non-binary,"[5999.73, 9971.47[",19244.85,0.0,3082.12,Gold,Debt Management,Debt Reduction,Seeking Further Consultation,Satisfied,Very Unsatisfied,Moderate
+*,*,*,*,*,35333.19,0.0,2466.14,*,Savings Plan,Increase Savings,Seeking Further Consultation,Very Unsatisfied,Very Satisfied,High
+*,"[0, 80[",*,Non-binary,"[5999.73, 9971.47[",26867.28,0.0,3651.4,Real Estate,Investment Strategy,Debt Reduction,Seeking Further Consultation,Very Unsatisfied,Neutral,High
+*,"[0, 80[",*,Non-binary,"[2000.09, 5999.73[",60308.51,4906.31,2600.31,Mutual Funds,Investment Strategy,Tax Savings,Implemented,Very Satisfied,Unsatisfied,High
+*,"[0, 80[",*,Male,"[5999.73, 9971.47[",58254.75,0.0,3431.43,Cryptocurrency,Savings Plan,Tax Savings,Not Implemented,Neutral,Satisfied,High
+*,"[0, 80[",*,Non-binary,"[5999.73, 9971.47[",51506.53,0.0,4276.71,Fixed Deposits,Savings Plan,Retirement Fund Building,Implemented,Neutral,Satisfied,Low
+*,"[0, 80[",*,Non-binary,"[2000.09, 5999.73[",45038.16,2200.5,2729.9,Bonds,Debt Management,High ROI Investments,Not Implemented,Unsatisfied,Very Satisfied,Low
+*,"[0, 80[",*,Male,"[5999.73, 9971.47[",45666.81,0.0,984.57,Gold,Savings Plan,High ROI Investments,Implemented,Unsatisfied,Unsatisfied,Moderate
+*,"[0, 80[",*,Non-binary,"[5999.73, 9971.47[",42460.08,0.0,4922.67,Cryptocurrency,Retirement Planning,Debt Reduction,Partially Implemented,Very Satisfied,Very Unsatisfied,Moderate
+*,*,*,*,*,22046.72,0.0,4272.37,*,Retirement Planning,Increase Savings,Not Implemented,Neutral,Very Unsatisfied,High
+*,"[0, 80[",*,Male,"[2000.09, 5999.73[",81378.99,0.0,4171.0,Bonds,Debt Management,Retirement Fund Building,Not Implemented,Satisfied,Very Unsatisfied,Moderate
+*,"[0, 80[",*,Female,"[2000.09, 5999.73[",69146.47,0.0,2564.32,Fixed Deposits,Investment Strategy,Increase Savings,Partially Implemented,Very Unsatisfied,Very Unsatisfied,Moderate
+*,"[0, 80[",*,Male,"[2000.09, 5999.73[",70627.87,1340.4,3393.27,Gold,Tax Planning,Tax Savings,Partially Implemented,Neutral,Very Unsatisfied,Low
+*,"[0, 80[",*,Female,"[2000.09, 5999.73[",93266.89,1247.98,2705.28,Gold,Debt Management,High ROI Investments,Not Implemented,Satisfied,Very Satisfied,High
+*,"[0, 80[",*,Female,"[2000.09, 5999.73[",89002.51,4005.73,3585.03,Real Estate,Retirement Planning,Debt Reduction,Seeking Further Consultation,Neutral,Very Unsatisfied,High
+*,"[0, 80[",*,Male,"[5999.73, 9971.47[",77376.23,0.0,4374.98,Gold,Investment Strategy,Tax Savings,Partially Implemented,Very Unsatisfied,Unsatisfied,Low
+*,"[0, 80[",*,Male,"[5999.73, 9971.47[",34877.64,4466.74,2823.71,Real Estate,Tax Planning,High ROI Investments,Seeking Further Consultation,Very Unsatisfied,Very Satisfied,Moderate
+*,"[0, 80[",*,Male,"[5999.73, 9971.47[",26772.23,0.0,4293.29,Real Estate,Debt Management,Increase Savings,Implemented,Very Satisfied,Satisfied,High
+*,"[0, 80[",*,Female,"[5999.73, 9971.47[",17591.79,1612.26,1872.96,Mutual Funds,Retirement Planning,Retirement Fund Building,Partially Implemented,Very Satisfied,Neutral,High
+*,"[0, 80[",*,Non-binary,"[2000.09, 5999.73[",35419.08,0.0,4690.05,Mutual Funds,Debt Management,High ROI Investments,Partially Implemented,Satisfied,Neutral,Low
+*,"[0, 80[",*,Female,"[5999.73, 9971.47[",28905.76,0.0,4159.62,Gold,Debt Management,Tax Savings,Implemented,Neutral,Very Satisfied,Low
+*,"[0, 80[",*,Female,"[5999.73, 9971.47[",60949.54,3293.02,3874.42,Gold,Investment Strategy,Increase Savings,Partially Implemented,Very Satisfied,Unsatisfied,Moderate
+*,*,*,*,*,12548.78,0.0,969.44,*,Savings Plan,High ROI Investments,Seeking Further Consultation,Very Unsatisfied,Very Unsatisfied,High
+*,"[0, 80[",*,Non-binary,"[2000.09, 5999.73[",35799.29,3236.26,3459.67,Real Estate,Tax Planning,Debt Reduction,Seeking Further Consultation,Satisfied,Unsatisfied,Low
+*,"[0, 80[",*,Female,"[5999.73, 9971.47[",21552.57,1960.89,1338.77,Cryptocurrency,Debt Management,Increase Savings,Partially Implemented,Unsatisfied,Satisfied,Moderate
+*,"[0, 80[",*,Non-binary,"[2000.09, 5999.73[",86081.13,0.0,2697.13,Mutual Funds,Debt Management,Tax Savings,Partially Implemented,Satisfied,Very Satisfied,High
+*,"[0, 80[",*,Male,"[5999.73, 9971.47[",76429.68,0.0,1879.06,Mutual Funds,Tax Planning,Debt Reduction,Partially Implemented,Neutral,Satisfied,High
+*,"[0, 80[",*,Non-binary,"[5999.73, 9971.47[",32560.84,1680.57,2216.92,Real Estate,Investment Strategy,Increase Savings,Seeking Further Consultation,Satisfied,Very Satisfied,Low
+*,"[0, 80[",*,Non-binary,"[2000.09, 5999.73[",77389.82,168.94,854.54,Fixed Deposits,Savings Plan,Debt Reduction,Partially Implemented,Very Satisfied,Unsatisfied,Low
+*,"[0, 80[",*,Female,"[5999.73, 9971.47[",35230.43,4848.67,4534.88,Stocks,Retirement Planning,Tax Savings,Seeking Further Consultation,Very Satisfied,Unsatisfied,Low
+*,"[0, 80[",*,Male,"[5999.73, 9971.47[",49584.11,0.0,2186.3,Gold,Tax Planning,High ROI Investments,Implemented,Satisfied,Unsatisfied,Low
+*,"[0, 80[",*,Female,"[2000.09, 5999.73[",48385.91,1830.98,2549.65,Real Estate,Investment Strategy,Retirement Fund Building,Implemented,Satisfied,Unsatisfied,High
+*,"[0, 80[",*,Female,"[2000.09, 5999.73[",22239.4,1184.2,4418.43,Stocks,Retirement Planning,Increase Savings,Not Implemented,Satisfied,Very Satisfied,Moderate
+*,"[0, 80[",*,Female,"[2000.09, 5999.73[",82554.42,2170.21,2198.15,Cryptocurrency,Investment Strategy,High ROI Investments,Partially Implemented,Unsatisfied,Unsatisfied,Moderate
+*,"[0, 80[",*,Non-binary,"[5999.73, 9971.47[",26481.91,3010.03,4396.68,Mutual Funds,Debt Management,Retirement Fund Building,Seeking Further Consultation,Very Unsatisfied,Very Unsatisfied,High
+*,"[0, 80[",*,Non-binary,"[2000.09, 5999.73[",93737.22,0.0,3965.97,Mutual Funds,Savings Plan,Tax Savings,Seeking Further Consultation,Neutral,Satisfied,Low
+*,"[0, 80[",*,Female,"[5999.73, 9971.47[",99921.61,4245.82,2130.58,Bonds,Retirement Planning,Retirement Fund Building,Not Implemented,Neutral,Very Unsatisfied,Low
+*,"[0, 80[",*,Male,"[5999.73, 9971.47[",53132.68,4147.34,845.3,Cryptocurrency,Retirement Planning,Increase Savings,Seeking Further Consultation,Unsatisfied,Unsatisfied,High
+*,"[0, 80[",*,Female,"[2000.09, 5999.73[",90019.26,0.0,1619.02,Mutual Funds,Investment Strategy,High ROI Investments,Seeking Further Consultation,Very Unsatisfied,Satisfied,High
+*,"[0, 80[",*,Female,"[5999.73, 9971.47[",49854.86,0.0,2265.3,Bonds,Retirement Planning,High ROI Investments,Seeking Further Consultation,Very Satisfied,Very Unsatisfied,High
+*,"[0, 80[",*,Male,"[5999.73, 9971.47[",15980.71,383.9,1206.44,Mutual Funds,Debt Management,Increase Savings,Implemented,Unsatisfied,Unsatisfied,Low
